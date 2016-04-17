@@ -1,0 +1,1363 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0001
+                                                  STATISTICS
+
+                                                   TOTAL  PERCENT                                                    TOTAL  PERCENT
+   01 = REGISTERED VOTERS - TOTAL                  4,237             06 = BALLOTS CAST - DEM FED                         0
+   02 = BALLOTS CAST - TOTAL                       1,991             07 = BALLOTS CAST - REP FED                         0
+   03 = BALLOTS CAST - DEMOCRATIC                  1,719   86.34     08 = BALLOTS CAST - GRN FED                         0
+   04 = BALLOTS CAST - REPUBLICAN                    272   13.66     09 = BALLOTS CAST - BLANK                           0
+   05 = BALLOTS CAST - GREEN                           0             10 = VOTER TURNOUT - TOTAL                              46.99
+                                     - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                                       01    02    03    04    05    06    07    08    09    10
+                                     - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+0101 OMAHA 1                          356 . 136 .  93 .  43 . . 0 . . 0 . . 0 . . 0 . . 0 38.20
+0201 NORTH FORK 1                     341 . 155 . 129 .  26 . . 0 . . 0 . . 0 . . 0 . . 0 45.45
+0301 EQUALITY 1                       674 . 314 . 250 .  64 . . 0 . . 0 . . 0 . . 0 . . 0 46.59
+0401 EAGLE CREEK 1                    167 .  62 .  47 .  15 . . 0 . . 0 . . 0 . . 0 . . 0 37.13
+0501 ASBURY 1                          84 .  35 .  25 .  10 . . 0 . . 0 . . 0 . . 0 . . 0 41.67
+0601 RIDGWAY 1                        626 . 377 . 346 .  31 . . 0 . . 0 . . 0 . . 0 . . 0 60.22
+0602 RIDGWAY 2                        116 .  60 .  55 . . 5 . . 0 . . 0 . . 0 . . 0 . . 0 51.72
+0701 GOLD HILL 1                      220 . 132 . 124 . . 8 . . 0 . . 0 . . 0 . . 0 . . 0 60.00
+0702 GOLD HILL 2                      520 . 225 . 208 .  17 . . 0 . . 0 . . 0 . . 0 . . 0 43.27
+0703 GOLD HILL 3                      456 . 202 . 184 .  18 . . 0 . . 0 . . 0 . . 0 . . 0 44.30
+0801 BOWLESVILLE 1                    131 .  57 .  52 . . 5 . . 0 . . 0 . . 0 . . 0 . . 0 43.51
+0901 NEW HAVEN 1                      351 . 142 . 126 .  16 . . 0 . . 0 . . 0 . . 0 . . 0 40.46
+1001 SHAWNEE 1                        195 .  94 .  80 .  14 . . 0 . . 0 . . 0 . . 0 . . 0 48.21
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0002
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+UNITED STATES SENATOR
+  VOTE FOR  1
+   01 = ROBERT MARSHALL                              152   11.99     04 = ALEXANDER "ALEXI" GIANNOULIAS                463   36.51
+   02 = DAVID HOFFMAN                                421   33.20     05 = CHERYLE JACKSON                              195   15.38
+   03 = JACOB J. MEISTER                              35    2.76     06 = WRITE-IN                                       2     .16
+                                   ------------------------------------
+                                       01    02    03    04    05    06
+                                   ------------------------------------
+0101 OMAHA 1                           12    32     2    14    13     0
+0201 NORTH FORK 1                      10    34     0    35    20     1
+0301 EQUALITY 1                        19    68     9    68    23     0
+0401 EAGLE CREEK 1                      3    17     1    12     5     0
+0501 ASBURY 1                           4    11     1     5     0     0
+0601 RIDGWAY 1                         34    76     7    84    48     0
+0602 RIDGWAY 2                          3    21     1    13     6     0
+0701 GOLD HILL 1                        5    28     3    35    11     1
+0702 GOLD HILL 2                       16    41     2    70    28     0
+0703 GOLD HILL 3                        9    37     4    59    16     0
+0801 BOWLESVILLE 1                      9    12     0    11     5     0
+0901 NEW HAVEN 1                       21    27     2    43    10     0
+1001 SHAWNEE 1                          7    17     3    14    10     0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0003
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+GOVERNOR
+  VOTE FOR  1
+   01 = PAT QUINN                                    545   35.78
+   02 = DANIEL W. HYNES                              974   63.95     03 = WRITE-IN                                       4     .26
+                                   ------------------
+                                       01    02    03
+                                   ------------------
+0101 OMAHA 1                           34    49     0
+0201 NORTH FORK 1                      43    69     0
+0301 EQUALITY 1                        80   144     1
+0401 EAGLE CREEK 1                     20    23     0
+0501 ASBURY 1                          10    14     0
+0601 RIDGWAY 1                        123   189     0
+0602 RIDGWAY 2                         15    34     0
+0701 GOLD HILL 1                       33    73     1
+0702 GOLD HILL 2                       58   128     2
+0703 GOLD HILL 3                       39   114     0
+0801 BOWLESVILLE 1                     10    33     0
+0901 NEW HAVEN 1                       50    67     0
+1001 SHAWNEE 1                         30    37     0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0004
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+LIEUTENANT GOVERNOR
+  VOTE FOR  1
+   01 = ARTHUR L. TURNER                             170   15.29     04 = SCOTT LEE COHEN                              269   24.19
+   02 = TERRY LINK                                   169   15.20     05 = THOMAS MICHAEL CASTILLO                      198   17.81
+   03 = RICKEY R. HENDON                             103    9.26     06 = MIKE BOLAND                                  203   18.26
+                                   ------------------------------------
+                                       01    02    03    04    05    06
+                                   ------------------------------------
+0101 OMAHA 1                            6     6     4    20     9    21
+0201 NORTH FORK 1                       7    13    10    19    17    20
+0301 EQUALITY 1                        18    18    18    42    39    27
+0401 EAGLE CREEK 1                      4     2     2    11     6     6
+0501 ASBURY 1                           2     3     1     8     5     1
+0601 RIDGWAY 1                         47    27    19    47    44    36
+0602 RIDGWAY 2                          6     4     6    12     3    10
+0701 GOLD HILL 1                       15     9    10     8     9    16
+0702 GOLD HILL 2                       19    25    11    33    27    22
+0703 GOLD HILL 3                       15    29    10    27    16    15
+0801 BOWLESVILLE 1                      6     2     2     8     6     5
+0901 NEW HAVEN 1                       15    18     7    28    15    14
+1001 SHAWNEE 1                         10    13     3     6     2    10
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0005
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+ATTORNEY GENERAL
+  VOTE FOR  1
+   01 = LISA MADIGAN                               1,153  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           72
+0201 NORTH FORK 1                      92
+0301 EQUALITY 1                       171
+0401 EAGLE CREEK 1                     34
+0501 ASBURY 1                          20
+0601 RIDGWAY 1                        243
+0602 RIDGWAY 2                         43
+0701 GOLD HILL 1                       72
+0702 GOLD HILL 2                      131
+0703 GOLD HILL 3                      114
+0801 BOWLESVILLE 1                     34
+0901 NEW HAVEN 1                       92
+1001 SHAWNEE 1                         35
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0006
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+SECRETARY OF STATE
+  VOTE FOR  1
+   01 = JESSE WHITE                                1,213  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           71
+0201 NORTH FORK 1                      92
+0301 EQUALITY 1                       158
+0401 EAGLE CREEK 1                     35
+0501 ASBURY 1                          22
+0601 RIDGWAY 1                        268
+0602 RIDGWAY 2                         42
+0701 GOLD HILL 1                       80
+0702 GOLD HILL 2                      143
+0703 GOLD HILL 3                      120
+0801 BOWLESVILLE 1                     36
+0901 NEW HAVEN 1                       99
+1001 SHAWNEE 1                         47
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0007
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+COMPTROLLER
+  VOTE FOR  1
+   01 = DAVID E. MILLER                              670   61.13
+   02 = S. RAJA KRISHNAMOORTHI                       329   30.02     03 = CLINTON A. "CLINT" KRISLOV                    97    8.85
+                                   ------------------
+                                       01    02    03
+                                   ------------------
+0101 OMAHA 1                           39    20     5
+0201 NORTH FORK 1                      54    23    12
+0301 EQUALITY 1                        91    57    14
+0401 EAGLE CREEK 1                     18     7     5
+0501 ASBURY 1                          16     4     1
+0601 RIDGWAY 1                        132    69    18
+0602 RIDGWAY 2                         25    13     5
+0701 GOLD HILL 1                       44    21     7
+0702 GOLD HILL 2                       72    45    11
+0703 GOLD HILL 3                       70    26     9
+0801 BOWLESVILLE 1                     29     4     0
+0901 NEW HAVEN 1                       55    33     4
+1001 SHAWNEE 1                         25     7     6
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0008
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+TREASURER
+  VOTE FOR  1
+   01 = JUSTIN P. OBERMAN                            453   39.70
+   02 = ROBIN KELLY                                  688   60.30
+                                   ------------
+                                       01    02
+                                   ------------
+0101 OMAHA 1                           21    43
+0201 NORTH FORK 1                      29    60
+0301 EQUALITY 1                        62   101
+0401 EAGLE CREEK 1                     15    20
+0501 ASBURY 1                          10    10
+0601 RIDGWAY 1                         95   140
+0602 RIDGWAY 2                         18    24
+0701 GOLD HILL 1                       28    44
+0702 GOLD HILL 2                       60    80
+0703 GOLD HILL 3                       50    64
+0801 BOWLESVILLE 1                     13    19
+0901 NEW HAVEN 1                       33    59
+1001 SHAWNEE 1                         19    24
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0009
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 15TH DISTRICT
+  VOTE FOR  1
+   01 = DAVID GILL                                   176  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           67
+0501 ASBURY 1                          20
+0901 NEW HAVEN 1                       89
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0010
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 19TH DISTRICT
+  VOTE FOR  1
+   01 = TIM BAGWELL                                  874  100.00
+                                   ------
+                                       01
+                                   ------
+0201 NORTH FORK 1                      86
+0301 EQUALITY 1                       147
+0401 EAGLE CREEK 1                     33
+0601 RIDGWAY 1                        214
+0602 RIDGWAY 2                         38
+0701 GOLD HILL 1                       67
+0702 GOLD HILL 2                      125
+0703 GOLD HILL 3                       99
+0801 BOWLESVILLE 1                     31
+1001 SHAWNEE 1                         34
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0011
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEWOMAN 15TH DISTRICT
+  VOTE FOR  1
+   01 = LYNN FOSTER                                  171  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           65
+0501 ASBURY 1                          19
+0901 NEW HAVEN 1                       87
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0012
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEWOMAN 19TH DISTRICT
+  VOTE FOR  1
+   01 = JAYNE MAZZOTTI                               380   44.29
+   02 = PAMELLA S. GRONEMEYER                        478   55.71
+                                   ------------
+                                       01    02
+                                   ------------
+0201 NORTH FORK 1                      37    49
+0301 EQUALITY 1                        66    78
+0401 EAGLE CREEK 1                     17    17
+0601 RIDGWAY 1                         94   116
+0602 RIDGWAY 2                         18    19
+0701 GOLD HILL 1                       26    39
+0702 GOLD HILL 2                       53    67
+0703 GOLD HILL 3                       43    56
+0801 BOWLESVILLE 1                     14    15
+1001 SHAWNEE 1                         12    22
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0013
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEMAN 15TH DISTRICT
+  VOTE FOR  1
+   01 = TERRY REDMAN                                 155  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           54
+0501 ASBURY 1                          17
+0901 NEW HAVEN 1                       84
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0014
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEMAN 19TH DISTRICT
+  VOTE FOR  1
+   01 = DANNY L. STOVER                              466   50.87
+   02 = JAY C. HOFFMAN                               450   49.13
+                                   ------------
+                                       01    02
+                                   ------------
+0201 NORTH FORK 1                      46    42
+0301 EQUALITY 1                        90    69
+0401 EAGLE CREEK 1                     16    18
+0601 RIDGWAY 1                        104   119
+0602 RIDGWAY 2                         20    20
+0701 GOLD HILL 1                       42    29
+0702 GOLD HILL 2                       63    64
+0703 GOLD HILL 3                       55    53
+0801 BOWLESVILLE 1                     16    12
+1001 SHAWNEE 1                         14    24
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0015
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+REP. IN THE GENERAL ASSEMBLY 118TH DIST.
+  VOTE FOR  1
+   01 = BRANDON W. PHELPS                          1,329  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           75
+0201 NORTH FORK 1                     108
+0301 EQUALITY 1                       181
+0401 EAGLE CREEK 1                     40
+0501 ASBURY 1                          25
+0601 RIDGWAY 1                        281
+0602 RIDGWAY 2                         49
+0701 GOLD HILL 1                       81
+0702 GOLD HILL 2                      154
+0703 GOLD HILL 3                      138
+0801 BOWLESVILLE 1                     41
+0901 NEW HAVEN 1                      109
+1001 SHAWNEE 1                         47
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0016
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+COUNTY CLERK
+  VOTE FOR  1
+   01 = BETH WARGEL                                1,236   77.93
+   02 = MARY ZIRKELBACH                              350   22.07
+                                   ------------
+                                       01    02
+                                   ------------
+0101 OMAHA 1                           66    18
+0201 NORTH FORK 1                      87    35
+0301 EQUALITY 1                       205    31
+0401 EAGLE CREEK 1                     36     9
+0501 ASBURY 1                          21     3
+0601 RIDGWAY 1                        245    78
+0602 RIDGWAY 2                         37    17
+0701 GOLD HILL 1                       94    17
+0702 GOLD HILL 2                      139    50
+0703 GOLD HILL 3                      127    39
+0801 BOWLESVILLE 1                     40     9
+0901 NEW HAVEN 1                       96    21
+1001 SHAWNEE 1                         43    23
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0017
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+COUNTY TREASURER
+  VOTE FOR  1
+   01 = PATRICIA McGUIRE                           1,382  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           75
+0201 NORTH FORK 1                     110
+0301 EQUALITY 1                       205
+0401 EAGLE CREEK 1                     37
+0501 ASBURY 1                          25
+0601 RIDGWAY 1                        286
+0602 RIDGWAY 2                         47
+0701 GOLD HILL 1                       88
+0702 GOLD HILL 2                      167
+0703 GOLD HILL 3                      146
+0801 BOWLESVILLE 1                     42
+0901 NEW HAVEN 1                      105
+1001 SHAWNEE 1                         49
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0018
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+COUNTY SHERIFF
+  VOTE FOR  1
+   01 = SHANNON R. BRADLEY                         1,255   74.26
+   02 = BUD KIMBRO                                    93    5.50     03 = MICHAEL L. KITCHENS                          342   20.24
+                                   ------------------
+                                       01    02    03
+                                   ------------------
+0101 OMAHA 1                           62     9    20
+0201 NORTH FORK 1                      69    18    40
+0301 EQUALITY 1                       174     4    65
+0401 EAGLE CREEK 1                     30     3    12
+0501 ASBURY 1                          22     1     2
+0601 RIDGWAY 1                        181    35   127
+0602 RIDGWAY 2                         41     2    12
+0701 GOLD HILL 1                      113     1     9
+0702 GOLD HILL 2                      184     4    14
+0703 GOLD HILL 3                      166     3    14
+0801 BOWLESVILLE 1                     44     2     6
+0901 NEW HAVEN 1                      105     6    11
+1001 SHAWNEE 1                         64     5    10
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0019
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+SUPERVISOR OF ASSESSMENTS
+  VOTE FOR  1
+   01 = LORI R. HISE                               1,419  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           77
+0201 NORTH FORK 1                     112
+0301 EQUALITY 1                       190
+0401 EAGLE CREEK 1                     43
+0501 ASBURY 1                          24
+0601 RIDGWAY 1                        288
+0602 RIDGWAY 2                         51
+0701 GOLD HILL 1                       99
+0702 GOLD HILL 2                      170
+0703 GOLD HILL 3                      157
+0801 BOWLESVILLE 1                     44
+0901 NEW HAVEN 1                      107
+1001 SHAWNEE 1                         57
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0020
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT
+REGL SUPT OF SCHOOLS (EDW,GAL,HRD,POP,SAL,WAB,WAY,WHT)
+  VOTE FOR  1
+   01 = LAWRENCE D. "LARRY" FILLINGIM              1,215  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           69
+0201 NORTH FORK 1                     100
+0301 EQUALITY 1                       155
+0401 EAGLE CREEK 1                     36
+0501 ASBURY 1                          24
+0601 RIDGWAY 1                        277
+0602 RIDGWAY 2                         48
+0701 GOLD HILL 1                       70
+0702 GOLD HILL 2                      137
+0703 GOLD HILL 3                      124
+0801 BOWLESVILLE 1                     39
+0901 NEW HAVEN 1                      100
+1001 SHAWNEE 1                         36
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0021
+                                                  DEMOCRATIC
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+COUNTY BOARD MEMBER
+  VOTE FOR  3
+   01 = GEORGE F. "BUTCH" BRAZIER                    826   20.67
+   02 = DAVID BARKER                                 816   20.42     05 = JACK ENDICOTT                                141    3.53
+   03 = HUGH DAVID SCATES                            742   18.57     06 = PAUL WAYNE MASSEY                            208    5.21
+   04 = JOHN T. BEAM                                 236    5.91     07 = CHRIS WARGEL                               1,027   25.70
+                                   ------------------------------------------
+                                       01    02    03    04    05    06    07
+                                   ------------------------------------------
+0101 OMAHA 1                           47    22    38    32    13     7    63
+0201 NORTH FORK 1                      66    49    58    22    11    14   101
+0301 EQUALITY 1                       110   124    86    33    27    31   145
+0401 EAGLE CREEK 1                     29    21    17     6     3     6    29
+0501 ASBURY 1                          13     8    17     5     4     1    24
+0601 RIDGWAY 1                        169   142   142    34    29    24   262
+0602 RIDGWAY 2                         26    26    27    12     1     5    47
+0701 GOLD HILL 1                       54    77    55    12     9    33    60
+0702 GOLD HILL 2                       87   142    99    23    13    27    91
+0703 GOLD HILL 3                       98   108    87    19     8    26    77
+0801 BOWLESVILLE 1                     35    26    23     6     4     4    24
+0901 NEW HAVEN 1                       55    40    75    22    10    14    81
+1001 SHAWNEE 1                         37    31    18    10     9    16    23
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0022
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+UNITED STATES SENATOR
+  VOTE FOR  1
+   01 = DONALD (DON) LOWERY                           94   39.33     04 = KATHLEEN THOMAS                               19    7.95
+   02 = MARK STEVEN KIRK                              73   30.54     05 = JOHN ARRINGTON                                 5    2.09
+   03 = ANDY MARTIN                                   12    5.02     06 = PATRICK J. HUGHES                             36   15.06
+                                   ------------------------------------
+                                       01    02    03    04    05    06
+                                   ------------------------------------
+0101 OMAHA 1                           10    18     2     2     0     8
+0201 NORTH FORK 1                       9     3     0     5     0     3
+0301 EQUALITY 1                        34     8     2     3     1    10
+0401 EAGLE CREEK 1                      6     7     1     0     1     0
+0501 ASBURY 1                           4     3     0     0     0     3
+0601 RIDGWAY 1                         10    13     2     2     0     3
+0602 RIDGWAY 2                          0     3     0     1     0     0
+0701 GOLD HILL 1                        3     2     0     0     1     0
+0702 GOLD HILL 2                        5     4     0     1     2     2
+0703 GOLD HILL 3                        4     1     2     2     0     2
+0801 BOWLESVILLE 1                      1     2     0     0     0     0
+0901 NEW HAVEN 1                        6     3     2     3     0     2
+1001 SHAWNEE 1                          2     6     1     0     0     3
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0023
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+GOVERNOR
+  VOTE FOR  1
+   01 = KIRK W. DILLARD                               19    7.12
+   02 = BILL BRADY                                   167   62.55     05 = DAN PROFT                                      9    3.37
+   03 = ROBERT J. "BOB" SCHILLERSTROM                  0             06 = JIM RYAN                                      22    8.24
+   04 = ADAM ANDRZEJEWSKI                             34   12.73     07 = ANDY McKENNA                                  16    5.99
+                                   ------------------------------------------
+                                       01    02    03    04    05    06    07
+                                   ------------------------------------------
+0101 OMAHA 1                            6    24     0     2     2     5     4
+0201 NORTH FORK 1                       2    17     0     0     1     3     0
+0301 EQUALITY 1                         4    33     0    22     3     2     0
+0401 EAGLE CREEK 1                      0    11     0     0     0     3     1
+0501 ASBURY 1                           1     5     0     3     0     1     0
+0601 RIDGWAY 1                          2    21     0     0     2     1     5
+0602 RIDGWAY 2                          0     4     0     0     0     0     1
+0701 GOLD HILL 1                        2     6     0     0     0     0     0
+0702 GOLD HILL 2                        1    11     0     0     0     2     3
+0703 GOLD HILL 3                        0    11     0     2     1     3     0
+0801 BOWLESVILLE 1                      0     2     0     1     0     1     0
+0901 NEW HAVEN 1                        0    10     0     4     0     0     2
+1001 SHAWNEE 1                          1    12     0     0     0     1     0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0024
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+LIEUTENANT GOVERNOR
+  VOTE FOR  1
+   01 = DON TRACY                                     23   10.04     04 = BRAD COLE                                     76   33.19
+   02 = JASON PLUMMER                                 82   35.81     05 = MATT MURPHY                                   30   13.10
+   03 = RANDY A. WHITE SR.                            10    4.37     06 = DENNIS W. COOK                                 8    3.49
+                                   ------------------------------------
+                                       01    02    03    04    05    06
+                                   ------------------------------------
+0101 OMAHA 1                            6    12     0    12     7     2
+0201 NORTH FORK 1                       3     3     1     9     3     1
+0301 EQUALITY 1                         7    26     2    12     7     1
+0401 EAGLE CREEK 1                      0     5     0     4     4     0
+0501 ASBURY 1                           1     4     0     3     1     0
+0601 RIDGWAY 1                          1    14     0    11     1     2
+0602 RIDGWAY 2                          0     3     1     0     0     0
+0701 GOLD HILL 1                        0     2     1     1     2     0
+0702 GOLD HILL 2                        2     1     2     6     4     0
+0703 GOLD HILL 3                        0     3     2     4     1     0
+0801 BOWLESVILLE 1                      0     3     0     0     0     0
+0901 NEW HAVEN 1                        3     2     0     6     0     1
+1001 SHAWNEE 1                          0     4     1     8     0     1
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0025
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+ATTORNEY GENERAL
+  VOTE FOR  1
+   01 = STEVE KIM                                    205  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           35
+0201 NORTH FORK 1                      19
+0301 EQUALITY 1                        44
+0401 EAGLE CREEK 1                     12
+0501 ASBURY 1                          10
+0601 RIDGWAY 1                         25
+0602 RIDGWAY 2                          4
+0701 GOLD HILL 1                        5
+0702 GOLD HILL 2                       14
+0703 GOLD HILL 3                       10
+0801 BOWLESVILLE 1                      2
+0901 NEW HAVEN 1                       16
+1001 SHAWNEE 1                          9
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0026
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+SECRETARY OF STATE
+  VOTE FOR  1
+   01 = ROBERT ENRIQUEZ                              165  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           30
+0201 NORTH FORK 1                      15
+0301 EQUALITY 1                        39
+0401 EAGLE CREEK 1                     10
+0501 ASBURY 1                           8
+0601 RIDGWAY 1                         21
+0602 RIDGWAY 2                          3
+0701 GOLD HILL 1                        3
+0702 GOLD HILL 2                       11
+0703 GOLD HILL 3                        8
+0801 BOWLESVILLE 1                      2
+0901 NEW HAVEN 1                       10
+1001 SHAWNEE 1                          5
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0027
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+COMPTROLLER
+  VOTE FOR  1
+   01 = JUDY BAAR TOPINKA                            132   56.90
+   02 = JIM DODGE                                     41   17.67     03 = WILLIAM J. KELLY                              59   25.43
+                                   ------------------
+                                       01    02    03
+                                   ------------------
+0101 OMAHA 1                           21     6    11
+0201 NORTH FORK 1                      16     1     4
+0301 EQUALITY 1                        23    15    15
+0401 EAGLE CREEK 1                      8     0     6
+0501 ASBURY 1                           6     2     2
+0601 RIDGWAY 1                         16     5     9
+0602 RIDGWAY 2                          3     1     0
+0701 GOLD HILL 1                        3     2     1
+0702 GOLD HILL 2                       11     2     1
+0703 GOLD HILL 3                        9     2     1
+0801 BOWLESVILLE 1                      1     1     1
+0901 NEW HAVEN 1                        7     2     5
+1001 SHAWNEE 1                          8     2     3
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0028
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+TREASURER
+  VOTE FOR  1
+   01 = DAN RUTHERFORD                               196  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           35
+0201 NORTH FORK 1                      15
+0301 EQUALITY 1                        46
+0401 EAGLE CREEK 1                     14
+0501 ASBURY 1                          10
+0601 RIDGWAY 1                         25
+0602 RIDGWAY 2                          4
+0701 GOLD HILL 1                        2
+0702 GOLD HILL 2                       16
+0703 GOLD HILL 3                        9
+0801 BOWLESVILLE 1                      2
+0901 NEW HAVEN 1                       12
+1001 SHAWNEE 1                          6
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0029
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 15TH DISTRICT
+  VOTE FOR  1
+   01 = TIMOTHY V. JOHNSON                            63  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           39
+0501 ASBURY 1                           9
+0901 NEW HAVEN 1                       15
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0030
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 19TH DISTRICT
+  VOTE FOR  1
+   01 = JOHN M. SHIMKUS                              164   88.17
+   02 = MICHAEL FIRSCHING                             22   11.83
+                                   ------------
+                                       01    02
+                                   ------------
+0201 NORTH FORK 1                      18     6
+0301 EQUALITY 1                        50    11
+0401 EAGLE CREEK 1                     15     0
+0601 RIDGWAY 1                         27     3
+0602 RIDGWAY 2                          5     0
+0701 GOLD HILL 1                        6     0
+0702 GOLD HILL 2                       14     1
+0703 GOLD HILL 3                       12     1
+0801 BOWLESVILLE 1                      5     0
+1001 SHAWNEE 1                         12     0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0031
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+REP. IN THE GENERAL ASSEMBLY 118TH DIST.
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0032
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+COUNTY CLERK
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0033
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+COUNTY TREASURER
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0034
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+COUNTY SHERIFF
+  VOTE FOR  1
+   01 = LYNDAL D. WILLIAMS                           174  100.00
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                           32
+0201 NORTH FORK 1                      17
+0301 EQUALITY 1                        42
+0401 EAGLE CREEK 1                     11
+0501 ASBURY 1                           9
+0601 RIDGWAY 1                         21
+0602 RIDGWAY 2                          5
+0701 GOLD HILL 1                        4
+0702 GOLD HILL 2                        9
+0703 GOLD HILL 3                        5
+0801 BOWLESVILLE 1                      2
+0901 NEW HAVEN 1                       12
+1001 SHAWNEE 1                          5
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0035
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+SUPERVISOR OF ASSESSMENTS
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0036
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+REGL SUPT OF SCHOOLS (EDW,GAL,HRD,POP,SAL,WAB,WAY,WHT)
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0037
+                                                  REPUBLICAN
+
+                                                   VOTES  PERCENT
+COUNTY BOARD MEMBER
+  VOTE FOR  3
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0038
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+UNITED STATES SENATOR
+  VOTE FOR  1
+   01 = LeALAN M. JONES                                0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0039
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+GOVERNOR
+  VOTE FOR  1
+   01 = RICH WHITNEY                                   0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0040
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+LIEUTENANT GOVERNOR
+  VOTE FOR  1
+   01 = DON W. CRAWFORD                                0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0041
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+ATTORNEY GENERAL
+  VOTE FOR  1
+   01 = DAVID F. BLACK                                 0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0042
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+SECRETARY OF STATE
+  VOTE FOR  1
+   01 = ADRIAN FROST                                   0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0043
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+COMPTROLLER
+  VOTE FOR  1
+   01 = R. ERIKA SCHAFER                               0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0044
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+TREASURER
+  VOTE FOR  1
+   01 = SCOTT K. SUMMERS                               0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0045
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 15TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0501 ASBURY 1                           0
+0901 NEW HAVEN 1                        0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0046
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS 19TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0047
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEWOMAN 15TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0501 ASBURY 1                           0
+0901 NEW HAVEN 1                        0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0048
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEWOMAN 19TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0049
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEMAN 15TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0501 ASBURY 1                           0
+0901 NEW HAVEN 1                        0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0050
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+STATE CENTRAL COMMITTEEMAN 19TH DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0051
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+REP. IN THE GENERAL ASSEMBLY 118TH DIST.
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0052
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+COUNTY CLERK
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0053
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+COUNTY TREASURER
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0054
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+COUNTY SHERIFF
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0055
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+SUPERVISOR OF ASSESSMENTS
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0056
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+REGL SUPT OF SCHOOLS (EDW,GAL,HRD,POP,SAL,WAB,WAY,WHT)
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================NUMBERED KEY CANVASS                              GENERAL PRIMARY ELECTION                           UNOFFICIAL RESULTS
+                                                  FEBRUARY 2, 2010
+RUN DATE:02/02/10 09:29 PM                        GALLATIN COUNTY, ILLINOIS                                REPORT-EL52     PAGE 0057
+                                                  GREEN
+
+                                                   VOTES  PERCENT
+COUNTY BOARD MEMBER
+  VOTE FOR  3
+   01 = NO CANDIDATE FILED                             0
+                                   ------
+                                       01
+                                   ------
+0101 OMAHA 1                            0
+0201 NORTH FORK 1                       0
+0301 EQUALITY 1                         0
+0401 EAGLE CREEK 1                      0
+0501 ASBURY 1                           0
+0601 RIDGWAY 1                          0
+0602 RIDGWAY 2                          0
+0701 GOLD HILL 1                        0
+0702 GOLD HILL 2                        0
+0703 GOLD HILL 3                        0
+0801 BOWLESVILLE 1                      0
+0901 NEW HAVEN 1                        0
+1001 SHAWNEE 1                          0
+====================================================================================================================================
+E

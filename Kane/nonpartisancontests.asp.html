@@ -1,0 +1,753 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<head>
+    <base href="http://www.kanecountyelections.org/" />
+	<LINK REL="STYLESHEET" TYPE="text/css" HREF="election.css">
+	<LINK REL="SHORTCUT ICON" HREF="images/flag.ico">
+	<meta name="keywords" content="register, vote, early voting, absentee voting, kane county" />
+	<meta name="description" content="Get information on Registering to Vote, Voting, and Elections" />
+	<meta http-equiv="refresh" content="900" >
+	<script language=javascript>
+	function PrecScroll()
+    {   
+        if (document.forms['frmLog'])
+        {   
+            document.frmLog.lstPrecinct.focus()  
+        }
+    }
+	</script>		 
+</head>
+
+<body background="images/bg.jpg" bgcolor=#aaaaaa style="background-repeat: repeat-y; background-position: top center;background-attachment:fixed; margin-top:0; margin-bottom:0;" onload=PrecScroll();>
+<script type="text/javascript" src="VoterInfo/wz_tooltip.js"></script>
+<div style="margin-left:0; margin-top:0; vertical-align:top;" align=center>
+<table cellpadding=0 cellspacing=0 background=images/bg_header.JPG width=800 align=center height=125 style="vertical-align:top;" >
+    <tr height=75>
+        <td width=120>&nbsp;</td>
+        <td colspan=3>
+            <table width=100% cellpadding=0 cellspacing=0>
+                <tr>
+                    <td colspan=2 align=left><font style="font-size:30px; color:#fcfcfa;"><b>John A. Cunningham</b></font></td>
+                </tr>
+                <tr>
+                    <td rowspan=2 align=left><font style="font-size:24px; color:#fcfcfa;">Kane County Clerk</font></td>
+                    <td align=left><font style="font-size:11px; color:#fcfcfa; margin-bottom:1px; margin-top:1px;"><b>Stanton J Bond</b>, Chief Deputy Clerk</font>
+                    <td align=left><font style="font-size:11px; color:#fcfcfa; margin-bottom:1px; margin-top:1px;"><b>Suzanne Fahnestock</b>, Director of Elections</font></td>
+                </tr>
+                <tr>
+                    <td align=left width=200><font style="font-size:11px; color:#fcfcfa; margin-bottom:1px; margin-top:1px;"></font></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr >
+        <td background=images/HeaderBar.jpg>&nbsp;</td>
+        <td align=right background=images/HeaderBar.jpg style="vertical-align:center;">
+            <a class=headerlinks href=Default.aspx>Home</a><font class=headerlinks> | </font>
+            <a class=headerlinks href=Contact.aspx>Contact Us</a><font class=headerlinks> | </font>
+            <a class=headerlinks href=http://www.co.kane.il.us/COC/>County Clerk</a><font class=headerlinks> | </font>
+            <a class=headerlinks href=RelatedLinks.aspx>Related Links</a><font class=headerlinks> | </font>
+            <a class=headerlinks href=foia.aspx>FOIA</a><font class=headerlinks> | </font>
+            <a class=headerlinks href=faq.aspx>FAQs</a></td>
+        <td align=right width=225 valign=middle background=images/HeaderBar.jpg height=10 style="vertical-align:center; font-size:90%">
+              <form id="searchbox_005563179635190828025:orhco3f6su4" action="http://www.google.com/cse" style="margin-bottom:0; margin-top:0; margin-left:0; margin-right:0;">
+                <input type="hidden" name="cx" value="005563179635190828025:orhco3f6su4" style="font-size:80%;"/>
+                <input type="hidden" name="cof" value="FORID:0" style="font-size:80%;" />
+                <input name="q" type="text" size="20"  style="font-size:80%;"/>
+                <input type="submit" name="sa" value="Search" style="font-size:80%;" class="btn" onmouseover="this.className='btn btnhov'" onmouseout="this.className='btn'" />
+                <img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" height=10/>
+              </form>
+              
+        </td>
+        <td background=images/HeaderBar.jpg height=10 style="vertical-align:top;">&nbsp;</td>
+    </tr> 
+    <tr>
+        <td colspan=4>
+        </td>
+    </tr>   
+</table>
+<table width=800 bgcolor=#fcfcfa align=center cellpadding=0 cellspacing=0>
+    <tr>
+        <td width=185 valign=top>
+            <table background=images/leftmenubg.jpg style="background-repeat:repeat-x;" width=175 align=left>
+                <tr>
+                    <td>
+                      <p class=leftmenuhead>Registration</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/Registration.aspx">Register to Vote</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/Offices.aspx">Where to Register</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/MailIn.aspx">Register by Mail</a></p>
+                  </td>
+                </tr>                                
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterInfo/Search.aspx">Are You Registered?</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/Registration.aspx#Deadlines">Registration Deadlines</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/GracePeriod.aspx">Grace Period Registration</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="DeputyRegistrar/registrar.aspx">Deputy Registrars</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterFileRequest/Request.aspx">Voter File Request</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterRegistration/Statistics.aspx">Statistics</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenuhead>Vote</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VotingSystem/eSlate.asp">How to Vote</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="PollingPlaces/PollingPlaces.aspx">Where to Vote</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="EarlyVoting/EarlyVotingSiteMap.aspx">Early Voting</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Absentee/absvoting.aspx">Absentee Voting</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionDay/ElectionDay.aspx">Election Day Voting</a></p>
+                  </td>
+                </tr>                
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ProvisionalVoting/provisional.aspx">Provisional Votes</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterInfo/Search.aspx">Find Voting Districts</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionDay/VotingAssistance.aspx">Voting Assistance</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenuhead>Elections</p>
+                  </td>
+                </tr>
+                <!--<tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="earlyvoting/EarlyVotingDistPrecTotals.asp">Early Voting Ballots Cast</a></p>
+                  </td>
+                </tr>-->              
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionResults/electionresults.asp"><b>Election Results</b></a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Candidates/CandidateList.aspx">Candidate List</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Candidates/Candidate_Info.aspx">For Candidates</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Candidates/writein.aspx">Write-in Candidates</a></p>
+                  </td>
+                </tr>                
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Referenda/Referenda.aspx">Referenda</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="Pollwatchers/pollwatcher.aspx">Poll Watchers</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="CampaignDisclosure/Disclosure.aspx">Campaign Disclosures</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="VoterInfo/Search.aspx">Sample Ballots</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="http://www.co.kane.il.us/coc/Records/EIS/EIS.asp">Economic Interest Statement</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenuhead>Election Personnel</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href=mailto:elections@co.kane.il.us?Subject=Election%20Judge%20Application&Body=Name%3A%20%0D%0A%0D%0AAddress%3A%20%0D%0A%0D%0ACity%2C%20ST%20Zip%3A%20%0D%0A%0D%0AEmail%3A%20%0D%0A%0D%0ADaytime%20Phone%3A%20%0D%0A%0D%0ACell%20Phone%3A%20%0D%0A%0D%0AAge%3A%20%0D%0A%20>Apply</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/ElectionJudges.aspx">Election/Bilingual Judges</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/StudentJudges.aspx">Student Judges</a></p>
+                  </td>
+                </tr>
+                <!--<tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/FieldDeputyClerks.aspx">Field Deputy Clerks</a></p>
+                  </td>
+                </tr>-->
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/PhoneOperators.aspx">Call Center Operators</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/ElectionWorkers.aspx">Election Workers</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href="ElectionPersonnel/TrainingMaterials.aspx">Election Judge Training Materials</a></p>
+                  </td>
+                </tr>                
+                <tr>
+                  <td>
+                      <p class=leftmenuhead>Party Information</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href=http://www.kanegop.org/ target=_blank>Republican Party</a></p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href=http://www.kanedems.org target=_blank>Democratic Party</a></p>
+                  </td>
+                </tr>
+              
+                <tr>
+                  <td>
+                      <p class=leftmenusubhead><a href=Committeemen/PctCommList.aspx target=_blank>Precinct Committeemen</a></p>
+                  </td>
+                </tr>                
+             </table>
+        </td>
+        <td valign=top width=605>
+        
+
+
+<title>2008 Nonpartisan General Primary Results - Kane County Elections</title>
+<h1>2008 Nonpartisan General Primary Contest Results</h1>
+<hr>
+<font style='text-align:right; right; font-size:x-small; font-style:italic'>Current as of Tuesday, February 19, 2008 at 4:49 pm</font>
+<hr>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>VILLAGE OF CAMPTON HILLS</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>8647</b></p></td>
+<td><p>Ballots Cast: <b>5138</b></p></td>
+<td><p>Turnout: <b>59.52%</b></p></td>
+<td valign=bottom><p><b>12</b> of <b>12</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/9970-FORVILLAGEPRESIDENT.asp'>FOR VILLAGE PRESIDENT</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=54% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Patsy Smith</p></td>
+<td align=right><b><font size=2>2789</font></b></td>
+<td align=right><b><font size=2>54.19%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=31% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Robert Young (W)</p></td>
+<td align=right><b><font size=2>1578</font></b></td>
+<td align=right><b><font size=2>30.66%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/9980-FORVILLAGECLERK.asp'>FOR VILLAGE CLERK</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=45% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Carolyn  Higgins</p></td>
+<td align=right><b><font size=2>2314</font></b></td>
+<td align=right><b><font size=2>44.96%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=43% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Karen L. Dowd</p></td>
+<td align=right><b><font size=2>2209</font></b></td>
+<td align=right><b><font size=2>42.92%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/9990-FORVILLAGETRUSTEE.asp'>FOR VILLAGE TRUSTEE</a> <br>(Vote for 6)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=8% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Laura B. Andersen</p></td>
+<td align=right><b><font size=2>2464</font></b></td>
+<td align=right><b><font size=2>7.98%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=8% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>James W. Kopec</p></td>
+<td align=right><b><font size=2>2452</font></b></td>
+<td align=right><b><font size=2>7.94%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Michael D. Millette</p></td>
+<td align=right><b><font size=2>2259</font></b></td>
+<td align=right><b><font size=2>7.31%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=8% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Susan P. George</p></td>
+<td align=right><b><font size=2>2408</font></b></td>
+<td align=right><b><font size=2>7.80%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=8% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>John S. Strauss</p></td>
+<td align=right><b><font size=2>2323</font></b></td>
+<td align=right><b><font size=2>7.52%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Al  Lenkaitis, Jr.</p></td>
+<td align=right><b><font size=2>2273</font></b></td>
+<td align=right><b><font size=2>7.36%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>William F. Brown</p></td>
+<td align=right><b><font size=2>2093</font></b></td>
+<td align=right><b><font size=2>6.78%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>William J. Lundborg</p></td>
+<td align=right><b><font size=2>2087</font></b></td>
+<td align=right><b><font size=2>6.76%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Fredrick D. Robinson</p></td>
+<td align=right><b><font size=2>2103</font></b></td>
+<td align=right><b><font size=2>6.81%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Susan  Secondi</p></td>
+<td align=right><b><font size=2>2130</font></b></td>
+<td align=right><b><font size=2>6.90%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Richard L. Seehafer</p></td>
+<td align=right><b><font size=2>2009</font></b></td>
+<td align=right><b><font size=2>6.51%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=7% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Marty White</p></td>
+<td align=right><b><font size=2>2036</font></b></td>
+<td align=right><b><font size=2>6.59%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=1% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Gary L. Moore</p></td>
+<td align=right><b><font size=2>414</font></b></td>
+<td align=right><b><font size=2>1.34%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10000-VILLAGEOFCAMPTONHILLSPROP1.asp'>VILLAGE OF CAMPTON HILLS PROP 1</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=48% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>2454</font></b></td>
+<td align=right><b><font size=2>47.68%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=49% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>2498</font></b></td>
+<td align=right><b><font size=2>48.53%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10010-VILLAGEOFCAMPTONHILLSPROP2.asp'>VILLAGE OF CAMPTON HILLS PROP 2</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=39% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>1985</font></b></td>
+<td align=right><b><font size=2>38.57%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=57% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>2934</font></b></td>
+<td align=right><b><font size=2>57.00%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10020-VILLAGEOFCAMPTONHILLSPROP3.asp'>VILLAGE OF CAMPTON HILLS PROP 3</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=55% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>2831</font></b></td>
+<td align=right><b><font size=2>55.00%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=41% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>2112</font></b></td>
+<td align=right><b><font size=2>41.03%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>VIRGIL TOWNSHIP</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>1351</b></p></td>
+<td><p>Ballots Cast: <b>659</b></p></td>
+<td><p>Turnout: <b>48.78%</b></p></td>
+<td valign=bottom><p><b>2</b> of <b>2</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10030-PROPOSITIONTOINCREASELIMITINGRATE.asp'>PROPOSITION TO INCREASE LIMITING RATE</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=41% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>272</font></b></td>
+<td align=right><b><font size=2>41.27%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=53% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>347</font></b></td>
+<td align=right><b><font size=2>52.66%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>SUGAR GROVE LIBRARY</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>9690</b></p></td>
+<td><p>Ballots Cast: <b>4892</b></p></td>
+<td><p>Turnout: <b>50.57%</b></p></td>
+<td valign=bottom><p><b>7</b> of <b>7</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10060-SUGARGROVELIBRARYDISTRICT.asp'>SUGAR GROVE LIBRARY DISTRICT</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=45% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>2196</font></b></td>
+<td align=right><b><font size=2>44.82%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=50% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>2473</font></b></td>
+<td align=right><b><font size=2>50.47%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>KANELAND SCHOOL DISTRICT 302</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>14287</b></p></td>
+<td><p>Ballots Cast: <b>7532</b></p></td>
+<td><p>Turnout: <b>52.80%</b></p></td>
+<td valign=bottom><p><b>15</b> of <b>15</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10070-PROPOSITIONTOISSUE$65,000,000SCHOOLBUILDINGBONDS.asp'>PROPOSITION TO ISSUE $65,000,000 SCHOOL BUILDING BONDS</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=51% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>3872</font></b></td>
+<td align=right><b><font size=2>51.33%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=46% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>3442</font></b></td>
+<td align=right><b><font size=2>45.63%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>NORTH AURORA FIRE DISTRICT</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>9876</b></p></td>
+<td><p>Ballots Cast: <b>3457</b></p></td>
+<td><p>Turnout: <b>35.06%</b></p></td>
+<td valign=bottom><p><b>11</b> of <b>11</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10080-PROPOSITIONTOELECTRATHERTHANAPPOINTTRUSTEES.asp'>PROPOSITION TO ELECT RATHER THAN APPOINT TRUSTEES</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=77% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>2667</font></b></td>
+<td align=right><b><font size=2>77.01%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=16% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>538</font></b></td>
+<td align=right><b><font size=2>15.54%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>FOX VALLEY PARK DISTRICT</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>16711</b></p></td>
+<td><p>Ballots Cast: <b>5914</b></p></td>
+<td><p>Turnout: <b>35.44%</b></p></td>
+<td valign=bottom><p><b>21</b> of <b>21</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10040-PROPOSITIONTOISSUE$44,850,000PARKBONDS.asp'>PROPOSITION TO ISSUE $44,850,000 PARK BONDS</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=51% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>3022</font></b></td>
+<td align=right><b><font size=2>51.02%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=42% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>2467</font></b></td>
+<td align=right><b><font size=2>41.65%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td colspan=5 bgcolor=#304985><font size=4 color=white><b>ST CHARLES PARK DISTRICT</b></font></td>
+</tr>
+<tr>
+<td><p>Registered Voters: <b>31422</b></p></td>
+<td><p>Ballots Cast: <b>12691</b></p></td>
+<td><p>Turnout: <b>40.47%</b></p></td>
+<td valign=bottom><p><b>35</b> of <b>35</b> Precincts Reporting</p></td></tr>
+<tr><td colspan=4><p>&nbsp;</p></td></tr>
+</table>
+<table width=100% border=0 cellspacing=0>
+<tr>
+<td></td>
+<td colspan=2 align=left  valign=top><font size=2><b><a href='ElectionResults/2008-02-05/ContestsByPrecinct/10050-PROPOSITIONTOISSUE$25,000,000GENERALOBLIGATIONPARKBONDS.asp'>PROPOSITION TO ISSUE $25,000,000 GENERAL OBLIGATION PARK BONDS</a> <br>(Vote for 1)</b></font></a></td>
+<td align=right valign=top><font size=2><b>Votes&nbsp;</b></font></td>
+<td align=right valign=top><font size=2><b>% of Votes&nbsp;</b></font></td>
+</tr>
+<tr><td></td><td colspan=4><hr></td></tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=55% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>Yes</p></td>
+<td align=right><b><font size=2>7016</font></b></td>
+<td align=right><b><font size=2>55.17%</font></b></td>
+</tr>
+<tr>
+<td></td>
+<td><table width=100 height=10 border=1 cellspacing=0><tr><td width=39% bgcolor=#990033>&nbsp;</td><td bgcolor=white>&nbsp;</td></tr></table></td>
+<td><p>No</p></td>
+<td align=right><b><font size=2>4924</font></b></td>
+<td align=right><b><font size=2>38.72%</font></b></td>
+</tr>
+<tr><td width=25><p>&nbsp;</p></td><td width=105><p>&nbsp;</p></td><td width=495><p>&nbsp;</p></td><td width=50><p>&nbsp;</p></td><td width=75><p>&nbsp;</p></td></tr>
+<tr><td colspan=6><p>&nbsp;</p></td></tr>
+</table>
+<p>(W) Write-In</p>
+        </td>
+    </tr>
+</table>
+<table background=images/bg_footer.jpg width=800>
+    <tr height=100>
+        <td align=left valign=bottom>
+            <p class="footertext" style="margin-bottom:10px; margin-left:10px;">
+	            <a href="http://maps.google.com/maps?f=q&hl=en&q=719+S.+Batavia+Ave.,+Geneva,+IL+&sll=37.0625,-95.677068&sspn=52.107327,81.738281&ie=UTF8&z=16&om=1&mid=1181165882" target=_blank class="footertext">Kane County Clerk's Office, 719 S. Batavia Ave.</a>, <a href="images/complex.pdf" target=_blank class="footertext">Bldg. B</a>, Geneva, IL 60134<br />
+	            For information call: (630) 232-5990 | En Español llama: (630) 232-5991 | <a href=mailto:elections@co.kane.il.us class="footertext">elections@co.kane.il.us</a><br />
+            </p>
+        </td>
+        <td align=right valign=bottom>
+            <!-- Google CSE Search Box Begins-->
+
+            <!--Google CSE Search Box Ends -->        
+        </td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,437 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0001
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   TOTAL  PERCENT                                                    TOTAL  PERCENT
+   01 = REGISTERED VOTERS - TOTAL                  4,052             03 = VOTER TURNOUT - TOTAL                              65.35
+   02 = BALLOTS CAST - TOTAL                       2,648
+                                     - - - - - - - - -
+                                       01    02    03
+                                     - - - - - - - - -
+0101 OMAHA 1                          362 . 226 62.43
+0201 NORTH FORK 1                     311 . 217 69.77
+0301 EQUALITY 1                       643 . 444 69.05
+0401 EAGLE CREEK 1                    163 . 116 71.17
+0501 ASBURY 1                          86 .  69 80.23
+0601 RIDGWAY 1                        695 . 503 72.37
+0701 GOLD HILL 1                      187 . 128 68.45
+0702 GOLD HILL 2                      527 . 312 59.20
+0703 GOLD HILL 3                      444 . 261 58.78
+0801 BOWLESVILLE 1                    118 .  69 58.47
+0901 NEW HAVEN 1                      345 . 222 64.35
+1001 SHAWNEE 1                        171 .  81 47.37
+====================================================================================================================================
+
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0002
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+CONSTITUTIONAL AMENDMENT
+  VOTE FOR  1
+   01 = YES                                        1,104   41.69     03 = OVER VOTES                                     1     .04
+   02 = NO                                           956   36.10     04 = UNDER VOTES                                  587   22.17
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          100    80     0    46
+0201 NORTH FORK 1                      89    81     0    47
+0301 EQUALITY 1                       175   159     0   110
+0401 EAGLE CREEK 1                     47    44     0    25
+0501 ASBURY 1                          28    32     0     9
+0601 RIDGWAY 1                        222   175     0   106
+0701 GOLD HILL 1                       50    49     0    29
+0702 GOLD HILL 2                      114   130     1    67
+0703 GOLD HILL 3                      117    87     0    57
+0801 BOWLESVILLE 1                     37    21     0    11
+0901 NEW HAVEN 1                       94    72     0    56
+1001 SHAWNEE 1                         31    26     0    24
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0003
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+PRESIDENT & VICE-PRESIDENT OF THE UNITED STATES
+  VOTE FOR  1
+   01 = ROMNEY/RYAN (REP)                          1,492   56.34
+   02 = OBAMA/BIDEN (DEM)                          1,029   38.86     05 = WRITE-IN                                       9     .34
+   03 = JOHNSON/GRAY (LIB)                            26     .98     06 = OVER VOTES                                    19     .72
+   04 = STEIN/HAWKINS (GRN)                           23     .87     07 = UNDER VOTES                                   50    1.89
+                                   ------------------------------------------
+                                       01    02    03    04    05    06    07
+                                   ------------------------------------------
+0101 OMAHA 1                          144    75     1     0     1     4     1
+0201 NORTH FORK 1                     126    80     4     1     0     1     5
+0301 EQUALITY 1                       254   168     4     4     5     1     8
+0401 EAGLE CREEK 1                     76    33     1     3     0     0     3
+0501 ASBURY 1                          49    18     0     1     1     0     0
+0601 RIDGWAY 1                        260   223     3     3     1     1    12
+0701 GOLD HILL 1                       82    38     1     1     1     1     4
+0702 GOLD HILL 2                      155   144     3     3     0     4     3
+0703 GOLD HILL 3                      157    87     3     4     0     2     8
+0801 BOWLESVILLE 1                     45    18     0     1     0     1     4
+0901 NEW HAVEN 1                      109   107     3     1     0     0     2
+1001 SHAWNEE 1                         35    38     3     1     0     4     0
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0004
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+REPRESENTATIVE IN CONGRESS
+FIFTEENTH CONGRESSIONAL DISTRICT
+  VOTE FOR  1
+   01 = JOHN M. SHIMKUS (REP)                      1,533   57.89     03 = OVER VOTES                                     1     .04
+   02 = ANGELA MICHAEL (DEM)                         905   34.18     04 = UNDER VOTES                                  209    7.89
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          148    63     0    15
+0201 NORTH FORK 1                     137    65     0    15
+0301 EQUALITY 1                       278   138     0    28
+0401 EAGLE CREEK 1                     71    36     0     9
+0501 ASBURY 1                          45    21     0     3
+0601 RIDGWAY 1                        291   171     0    41
+0701 GOLD HILL 1                       79    38     0    11
+0702 GOLD HILL 2                      153   125     1    33
+0703 GOLD HILL 3                      151    84     0    26
+0801 BOWLESVILLE 1                     47    20     0     2
+0901 NEW HAVEN 1                       99   101     0    22
+1001 SHAWNEE 1                         34    43     0     4
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0005
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+STATE SENATOR FIFTY-NINTH LEGISLATIVE DISTRICT
+  VOTE FOR  1
+   01 = MARK MINOR (REP)                             762   28.78     03 = OVER VOTES                                     0
+   02 = GARY F. FORBY (DEM)                        1,756   66.31     04 = UNDER VOTES                                  130    4.91
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                           91   126     0     9
+0201 NORTH FORK 1                      63   139     0    15
+0301 EQUALITY 1                       149   274     0    21
+0401 EAGLE CREEK 1                     38    75     0     3
+0501 ASBURY 1                          27    41     0     1
+0601 RIDGWAY 1                        162   307     0    34
+0701 GOLD HILL 1                       33    91     0     4
+0702 GOLD HILL 2                       62   239     0    11
+0703 GOLD HILL 3                       60   183     0    18
+0801 BOWLESVILLE 1                     19    47     0     3
+0901 NEW HAVEN 1                       43   171     0     8
+1001 SHAWNEE 1                         15    63     0     3
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0006
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+REPRESENTATIVE IN THE GENERAL ASSEMBLY
+118TH REPRESENTATIVE DISTRICT
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED (REP)                       0             03 = OVER VOTES                                     0
+   02 = BRANDON W. PHELPS (DEM)                    1,970   74.40     04 = UNDER VOTES                                  678   25.60
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                            0   171     0    55
+0201 NORTH FORK 1                       0   156     0    61
+0301 EQUALITY 1                         0   316     0   128
+0401 EAGLE CREEK 1                      0    92     0    24
+0501 ASBURY 1                           0    56     0    13
+0601 RIDGWAY 1                          0   361     0   142
+0701 GOLD HILL 1                        0    82     0    46
+0702 GOLD HILL 2                        0   242     0    70
+0703 GOLD HILL 3                        0   192     0    69
+0801 BOWLESVILLE 1                      0    60     0     9
+0901 NEW HAVEN 1                        0   186     0    36
+1001 SHAWNEE 1                          0    56     0    25
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0007
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+CIRCUIT CLERK
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED (REP)                       0             03 = OVER VOTES                                     0
+   02 = BRITTNEY LANE-CAPEHEART (DEM)              1,966   74.24     04 = UNDER VOTES                                  682   25.76
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                            0   166     0    60
+0201 NORTH FORK 1                       0   161     0    56
+0301 EQUALITY 1                         0   306     0   138
+0401 EAGLE CREEK 1                      0   105     0    11
+0501 ASBURY 1                           0    57     0    12
+0601 RIDGWAY 1                          0   377     0   126
+0701 GOLD HILL 1                        0    90     0    38
+0702 GOLD HILL 2                        0   222     0    90
+0703 GOLD HILL 3                        0   195     0    66
+0801 BOWLESVILLE 1                      0    58     0    11
+0901 NEW HAVEN 1                        0   176     0    46
+1001 SHAWNEE 1                          0    53     0    28
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0008
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+STATE'S ATTORNEY
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED (REP)                       0             03 = OVER VOTES                                     0
+   02 = ALLEN ROE (DEM)                            2,012   75.98     04 = UNDER VOTES                                  636   24.02
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                            0   172     0    54
+0201 NORTH FORK 1                       0   160     0    57
+0301 EQUALITY 1                         0   320     0   124
+0401 EAGLE CREEK 1                      0   104     0    12
+0501 ASBURY 1                           0    58     0    11
+0601 RIDGWAY 1                          0   384     0   119
+0701 GOLD HILL 1                        0    95     0    33
+0702 GOLD HILL 2                        0   223     0    89
+0703 GOLD HILL 3                        0   204     0    57
+0801 BOWLESVILLE 1                      0    60     0     9
+0901 NEW HAVEN 1                        0   173     0    49
+1001 SHAWNEE 1                          0    59     0    22
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0009
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+CORONER
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED (REP)                       0             03 = OVER VOTES                                     0
+   02 = CHARLES A. "TONY" COX (DEM)                1,983   74.89     04 = UNDER VOTES                                  665   25.11
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                            0   169     0    57
+0201 NORTH FORK 1                       0   164     0    53
+0301 EQUALITY 1                         0   302     0   142
+0401 EAGLE CREEK 1                      0    97     0    19
+0501 ASBURY 1                           0    55     0    14
+0601 RIDGWAY 1                          0   404     0    99
+0701 GOLD HILL 1                        0    81     0    47
+0702 GOLD HILL 2                        0   216     0    96
+0703 GOLD HILL 3                        0   186     0    75
+0801 BOWLESVILLE 1                      0    61     0     8
+0901 NEW HAVEN 1                        0   194     0    28
+1001 SHAWNEE 1                          0    54     0    27
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0010
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+COUNTY BOARD MEMBER
+  VOTE FOR  5
+   01 = NO CANDIDATE FILED (REP)                       0             05 = RANDY DRONE (DEM)                          1,416   10.69
+   02 = CHRISTOPHER G. WARGEL (DEM)                1,557   11.76     06 = LISA L. COONSE (DEM)                       1,334   10.08
+   03 = TERRY GOLDEN (DEM)                         1,439   10.87     07 = OVER VOTES                                     0
+   04 = MARK YORK (DEM)                            1,497   11.31     08 = UNDER VOTES                                5,997   45.29
+                                   ------------------------------------------------
+                                       01    02    03    04    05    06    07    08
+                                   ------------------------------------------------
+0101 OMAHA 1                            0   138   119   112   122    97     0   542
+0201 NORTH FORK 1                       0   157   107   118   133   110     0   460
+0301 EQUALITY 1                         0   233   218   269   214   198     0  1088
+0401 EAGLE CREEK 1                      0    57    74    66    58    57     0   268
+0501 ASBURY 1                           0    51    44    48    52    40     0   110
+0601 RIDGWAY 1                          0   387   260   294   329   247     0   998
+0701 GOLD HILL 1                        0    49    59    75    56    58     0   343
+0702 GOLD HILL 2                        0   150   179   170   146   184     0   731
+0703 GOLD HILL 3                        0   126   153   150   112   142     0   622
+0801 BOWLESVILLE 1                      0    35    39    39    32    39     0   161
+0901 NEW HAVEN 1                        0   139   145   115   130   119     0   462
+1001 SHAWNEE 1                          0    35    42    41    32    43     0   212
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0011
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+JUDGE OF THE APPELLATE COURT
+FIFTH JUDICIAL DISTRICT (DONOVAN VACANCY)
+  VOTE FOR  1
+   01 = STEPHEN McGLYNN (REP)                        746   28.17     03 = OVER VOTES                                     0
+   02 = JUDY CATES (DEM)                           1,492   56.34     04 = UNDER VOTES                                  410   15.48
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                           78   119     0    29
+0201 NORTH FORK 1                      57   117     0    43
+0301 EQUALITY 1                       150   236     0    58
+0401 EAGLE CREEK 1                     38    63     0    15
+0501 ASBURY 1                          27    31     0    11
+0601 RIDGWAY 1                        137   287     0    79
+0701 GOLD HILL 1                       43    59     0    26
+0702 GOLD HILL 2                       65   207     0    40
+0703 GOLD HILL 3                       63   146     0    52
+0801 BOWLESVILLE 1                     13    42     0    14
+0901 NEW HAVEN 1                       55   144     0    23
+1001 SHAWNEE 1                         20    41     0    20
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0012
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+JUDGE OF THE CIRCUIT COURT
+SECOND JUDICIAL CIRCUIT (VANTREASE VACANCY)
+  VOTE FOR  1
+   01 = NO CANDIDATE FILED (REP)                       0             03 = OVER VOTES                                     0
+   02 = ERIC J. DIRNBECK (DEM)                     1,519   57.36     04 = UNDER VOTES                                1,129   42.64
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                            0   141     0    85
+0201 NORTH FORK 1                       0   119     0    98
+0301 EQUALITY 1                         0   232     0   212
+0401 EAGLE CREEK 1                      0    74     0    42
+0501 ASBURY 1                           0    49     0    20
+0601 RIDGWAY 1                          0   298     0   205
+0701 GOLD HILL 1                        0    56     0    72
+0702 GOLD HILL 2                        0   174     0   138
+0703 GOLD HILL 3                        0   145     0   116
+0801 BOWLESVILLE 1                      0    42     0    27
+0901 NEW HAVEN 1                        0   145     0    77
+1001 SHAWNEE 1                          0    44     0    37
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0013
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+RETAIN MELISSA ANN CHAPMAN?
+APPELLATE COURT JUDGE FIFTH JUDICIAL DISTRICT
+  VOTE FOR  1
+   01 = YES                                        1,278   48.26     03 = OVER VOTES                                     0
+   02 = NO                                           531   20.05     04 = UNDER VOTES                                  839   31.68
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          120    43     0    63
+0201 NORTH FORK 1                     100    44     0    73
+0301 EQUALITY 1                       193   100     0   151
+0401 EAGLE CREEK 1                     66    13     0    37
+0501 ASBURY 1                          47    12     0    10
+0601 RIDGWAY 1                        246   102     0   155
+0701 GOLD HILL 1                       47    34     0    47
+0702 GOLD HILL 2                      143    68     0   101
+0703 GOLD HILL 3                      122    50     0    89
+0801 BOWLESVILLE 1                     34    14     0    21
+0901 NEW HAVEN 1                      123    34     0    65
+1001 SHAWNEE 1                         37    17     0    27
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0014
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+RETAIN MELISSA A. DREW?
+CIRCUIT COURT JUDGE SECOND JUDICIAL CIRCUIT
+  VOTE FOR  1
+   01 = YES                                        1,357   51.25     03 = OVER VOTES                                     2     .08
+   02 = NO                                           561   21.19     04 = UNDER VOTES                                  728   27.49
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          127    46     0    53
+0201 NORTH FORK 1                     102    52     1    62
+0301 EQUALITY 1                       201   113     0   130
+0401 EAGLE CREEK 1                     69    15     0    32
+0501 ASBURY 1                          48    11     1     9
+0601 RIDGWAY 1                        263   107     0   133
+0701 GOLD HILL 1                       54    34     0    40
+0702 GOLD HILL 2                      162    69     0    81
+0703 GOLD HILL 3                      132    51     0    78
+0801 BOWLESVILLE 1                     39    11     0    19
+0901 NEW HAVEN 1                      125    32     0    65
+1001 SHAWNEE 1                         35    20     0    26
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0015
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+RETAIN CHRISTOPHER L. WEBER?
+CIRCUIT COURT JDUGE SECOND JUDICIAL CIRCUIT
+  VOTE FOR  1
+   01 = YES                                        1,206   45.54     03 = OVER VOTES                                     2     .08
+   02 = NO                                           569   21.49     04 = UNDER VOTES                                  871   32.89
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          126    40     0    60
+0201 NORTH FORK 1                      97    47     0    73
+0301 EQUALITY 1                       181   104     0   159
+0401 EAGLE CREEK 1                     64    15     0    37
+0501 ASBURY 1                          46    14     0     9
+0601 RIDGWAY 1                        229   111     2   161
+0701 GOLD HILL 1                       48    33     0    47
+0702 GOLD HILL 2                      132    76     0   104
+0703 GOLD HILL 3                      111    60     0    90
+0801 BOWLESVILLE 1                     31    11     0    27
+0901 NEW HAVEN 1                      112    39     0    71
+1001 SHAWNEE 1                         29    19     0    33
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0016
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+PUBLIC SAFETY TAX QUESTION
+  VOTE FOR  1
+   01 = YES                                        1,011   38.18     03 = OVER VOTES                                     2     .08
+   02 = NO                                         1,399   52.83     04 = UNDER VOTES                                  236    8.91
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                           67   133     1    25
+0201 NORTH FORK 1                      90   107     0    20
+0301 EQUALITY 1                       150   246     1    47
+0401 EAGLE CREEK 1                     33    73     0    10
+0501 ASBURY 1                          26    40     0     3
+0601 RIDGWAY 1                        228   242     0    33
+0701 GOLD HILL 1                       46    69     0    13
+0702 GOLD HILL 2                      137   156     0    19
+0703 GOLD HILL 3                      112   129     0    20
+0801 BOWLESVILLE 1                     22    33     0    14
+0901 NEW HAVEN 1                       88   109     0    25
+1001 SHAWNEE 1                         12    62     0     7
+====================================================================================================================================
+NUMBERED KEY CANVASS                              GALLATIN COUNTY, ILLINOIS                          OFFICIAL CANVASS
+                                                  GENERAL ELECTION
+RUN DATE:11/15/12 01:28 PM                        NOVEMBER 6, 2012                                         REPORT-EL52     PAGE 0017
+                                                                     WITH 12 OF 12 PRECINCTS REPORTING
+                                                   VOTES  PERCENT                                                    VOTES  PERCENT
+SURCHARGE RAISE FOR 9-1-1 EMERGENCY TELEPHONE SYSTEM
+  VOTE FOR  1
+   01 = YES                                        1,254   47.36     03 = OVER VOTES                                     2     .08
+   02 = NO                                         1,163   43.92     04 = UNDER VOTES                                  229    8.65
+                                   ------------------------
+                                       01    02    03    04
+                                   ------------------------
+0101 OMAHA 1                          107    98     0    21
+0201 NORTH FORK 1                     105    94     0    18
+0301 EQUALITY 1                       174   227     0    43
+0401 EAGLE CREEK 1                     39    65     0    12
+0501 ASBURY 1                          35    31     0     3
+0601 RIDGWAY 1                        291   175     0    37
+0701 GOLD HILL 1                       55    61     0    12
+0702 GOLD HILL 2                      164   124     1    23
+0703 GOLD HILL 3                      137   106     1    17
+0801 BOWLESVILLE 1                     33    25     0    11
+0901 NEW HAVEN 1                       96   104     0    22
+1001 SHAWNEE 1                         18    53     0    10
+====================================================================================================================================
+E
