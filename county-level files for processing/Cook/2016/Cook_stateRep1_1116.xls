@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 1st District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 613</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Daniel J. Burke</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Daniel J. Burke</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney</Data></Cell>
+<Cell><Data ss:Type="String">1,330</Data></Cell>
+<Cell><Data ss:Type="String">873</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">1,330</Data></Cell>
+<Cell><Data ss:Type="String">873</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Daniel J. Burke</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 10</Data></Cell>
+<Cell><Data ss:Type="String">1,330</Data></Cell>
+<Cell><Data ss:Type="String">873</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">1,330</Data></Cell>
+<Cell><Data ss:Type="String">873</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+<Cell><Data ss:Type="String">613</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

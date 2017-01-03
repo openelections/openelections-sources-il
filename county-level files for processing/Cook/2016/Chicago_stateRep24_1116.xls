@@ -1,0 +1,593 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" />
+
+<title>Board of Election Commissioners for the City of Chicago</title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-59933164-1', 'auto');
+  ga('send', 'pageview');
+ 
+</script>
+</head>
+
+<body>
+
+				
+					<b>Chicago Board of Election Commissioners</b><br /><br />
+					
+					<!-- TOTALS -->
+					
+					
+					<!-- Election -->
+					
+						<span style="color:blue"><b>2016 General Election - 11/8/2016                 </b></span><br /><br />
+						
+					<!-- Election End -->
+					
+					<!-- Race -->
+					
+						<span style="color:red"><b>State Representative, 24th District                                        </b></span><br /><br />
+						
+					<!--Race End -->
+					
+					<!--Total Election and Race -->
+					
+					<table style="width:100%" cellpadding="0" cellspacing="0">
+					<tr style="text-align:center; height:25px">
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Votes</b></td>
+
+					
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Andy Kirchoff                                                              </b></td>
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+										
+					
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Elizabeth Hernandez                                                        </b></td>
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+										
+					
+					</tr>
+					
+					<tr style="text-align:center; height:25px">
+					<td style="border:thin; border-style:solid; border-color:#0078C1">5,079</td>
+					
+						<td style="border:thin; border-style:solid; border-color:#0078C1">316</td>
+							
+							<td style="border:thin; border-style:solid; border-color:#0078C1">6.22%</td>
+							
+						<td style="border:thin; border-style:solid; border-color:#0078C1">4,763</td>
+							
+							<td style="border:thin; border-style:solid; border-color:#0078C1">93.78%</td>
+							
+						</tr>
+						</table>					
+						
+					<!--Total Election and Race End-->
+					
+					<!-- Ward -->
+					
+							<br />
+							<table style="width:100%" cellpadding="0" cellspacing="0">
+								<tr style="height:25px">
+									<td><b>Ward 12</b></td> 
+								</tr>
+								<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Precinct</b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Votes</b></td>
+									<!--Candidate Names-->
+									
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Andy Kirchoff                                                              </b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+									
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Elizabeth Hernandez                                                        </b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+																
+									<!-- Candidate Names End -->
+									
+								</tr>
+																	
+								<!-- Precinct -->
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">16</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">14</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">1</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">7.14%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">13</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">92.86%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<!-- Precinct End -->
+									
+									<tr style="text-align:center; height:25px">
+										<!-- Ward Total Votes -->
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Total</b></td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>14</b></td>
+										
+										<!-- Ward Total Votes End -->
+										
+										<!-- Candidate Total Votes and Turnouts -->
+										
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>1</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>7.14%</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>13</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>92.86%</b></td>
+																			
+																				
+										<!-- Candidate Total Votes and Turnouts End -->
+										
+									</tr>									
+									
+							</table>							
+							
+							<br />
+							<table style="width:100%" cellpadding="0" cellspacing="0">
+								<tr style="height:25px">
+									<td><b>Ward 22</b></td> 
+								</tr>
+								<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Precinct</b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Votes</b></td>
+									<!--Candidate Names-->
+									
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Andy Kirchoff                                                              </b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+									
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Elizabeth Hernandez                                                        </b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+																
+									<!-- Candidate Names End -->
+									
+								</tr>
+																	
+								<!-- Precinct -->
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">3</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">613</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">31</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">5.06%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">582</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">94.94%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">4</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">212</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">10</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">4.72%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">202</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">95.28%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">5</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">442</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">23</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">5.20%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">419</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">94.80%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">6</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">444</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">35</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">7.88%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">409</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">92.12%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">7</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">275</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">18</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">6.55%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">257</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">93.45%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">9</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">402</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">22</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">5.47%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">380</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">94.53%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">10</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">9</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">0</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">0%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">9</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">100.00%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">11</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">395</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">25</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">6.33%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">370</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">93.67%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">13</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">180</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">16</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">8.89%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">164</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">91.11%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">15</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">78</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">6</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">7.69%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">72</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">92.31%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">16</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">27</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">3</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">11.11%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">24</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">88.89%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">17</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">401</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">31</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">7.73%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">370</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">92.27%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">18</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">196</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">12</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">6.12%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">184</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">93.88%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">20</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">430</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">28</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">6.51%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">402</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">93.49%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">24</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">525</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">37</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">7.05%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">488</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">92.95%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">25</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">436</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">18</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">4.13%</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">418</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">95.87%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<!-- Precinct End -->
+									
+									<tr style="text-align:center; height:25px">
+										<!-- Ward Total Votes -->
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Total</b></td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>5,065</b></td>
+										
+										<!-- Ward Total Votes End -->
+										
+										<!-- Candidate Total Votes and Turnouts -->
+										
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>315</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>6.22%</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>4,750</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>93.78%</b></td>
+																			
+																				
+										<!-- Candidate Total Votes and Turnouts End -->
+										
+									</tr>									
+									
+							</table>							
+							
+
+					
+					
+					<!-- RACE and WARD -->
+					
+					
+				<br /><br />
+
+</body>
+
+</html>

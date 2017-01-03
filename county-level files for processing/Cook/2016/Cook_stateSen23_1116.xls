@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Senator, 23rd District 2yr</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 3,463</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Seth Lewis</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">1,904</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Thomas E. Cullerton</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">1,559</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Seth Lewis</Data></Cell>
+<Cell><Data ss:Type="String">Thomas E. Cullerton</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,904</Data></Cell>
+<Cell><Data ss:Type="String">1,559</Data></Cell>
+<Cell><Data ss:Type="String">3,463</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,904</Data></Cell>
+<Cell><Data ss:Type="String">1,559</Data></Cell>
+<Cell><Data ss:Type="String">3,463</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Seth Lewis</Data></Cell>
+<Cell><Data ss:Type="String">Thomas E. Cullerton</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 9</Data></Cell>
+<Cell><Data ss:Type="String">1,049</Data></Cell>
+<Cell><Data ss:Type="String">722</Data></Cell>
+<Cell><Data ss:Type="String">385</Data></Cell>
+<Cell><Data ss:Type="String">301</Data></Cell>
+<Cell><Data ss:Type="String">686</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 23</Data></Cell>
+<Cell><Data ss:Type="String">1,074</Data></Cell>
+<Cell><Data ss:Type="String">742</Data></Cell>
+<Cell><Data ss:Type="String">351</Data></Cell>
+<Cell><Data ss:Type="String">355</Data></Cell>
+<Cell><Data ss:Type="String">706</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 31</Data></Cell>
+<Cell><Data ss:Type="String">799</Data></Cell>
+<Cell><Data ss:Type="String">547</Data></Cell>
+<Cell><Data ss:Type="String">364</Data></Cell>
+<Cell><Data ss:Type="String">168</Data></Cell>
+<Cell><Data ss:Type="String">532</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 42</Data></Cell>
+<Cell><Data ss:Type="String">1,051</Data></Cell>
+<Cell><Data ss:Type="String">744</Data></Cell>
+<Cell><Data ss:Type="String">368</Data></Cell>
+<Cell><Data ss:Type="String">340</Data></Cell>
+<Cell><Data ss:Type="String">708</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 44</Data></Cell>
+<Cell><Data ss:Type="String">1,294</Data></Cell>
+<Cell><Data ss:Type="String">875</Data></Cell>
+<Cell><Data ss:Type="String">436</Data></Cell>
+<Cell><Data ss:Type="String">395</Data></Cell>
+<Cell><Data ss:Type="String">831</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,904</Data></Cell>
+<Cell><Data ss:Type="String">1,559</Data></Cell>
+<Cell><Data ss:Type="String">3,463</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

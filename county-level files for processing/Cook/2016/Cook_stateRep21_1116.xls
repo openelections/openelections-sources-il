@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 21st District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 9,543</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Silvana Tabares</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">9,543</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Silvana Tabares</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Berwyn</Data></Cell>
+<Cell><Data ss:Type="String">813</Data></Cell>
+<Cell><Data ss:Type="String">20</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cicero</Data></Cell>
+<Cell><Data ss:Type="String">3,410</Data></Cell>
+<Cell><Data ss:Type="String">1,504</Data></Cell>
+<Cell><Data ss:Type="String">1,179</Data></Cell>
+<Cell><Data ss:Type="String">1,179</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons</Data></Cell>
+<Cell><Data ss:Type="String">10,829</Data></Cell>
+<Cell><Data ss:Type="String">7,133</Data></Cell>
+<Cell><Data ss:Type="String">5,540</Data></Cell>
+<Cell><Data ss:Type="String">5,540</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Riverside</Data></Cell>
+<Cell><Data ss:Type="String">1,981</Data></Cell>
+<Cell><Data ss:Type="String">1,529</Data></Cell>
+<Cell><Data ss:Type="String">1,003</Data></Cell>
+<Cell><Data ss:Type="String">1,003</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney</Data></Cell>
+<Cell><Data ss:Type="String">3,902</Data></Cell>
+<Cell><Data ss:Type="String">2,408</Data></Cell>
+<Cell><Data ss:Type="String">1,804</Data></Cell>
+<Cell><Data ss:Type="String">1,804</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">20,935</Data></Cell>
+<Cell><Data ss:Type="String">12,594</Data></Cell>
+<Cell><Data ss:Type="String">9,543</Data></Cell>
+<Cell><Data ss:Type="String">9,543</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Silvana Tabares</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Berwyn Ward 1 Precinct 2</Data></Cell>
+<Cell><Data ss:Type="String">813</Data></Cell>
+<Cell><Data ss:Type="String">20</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+<Cell><Data ss:Type="String">17</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cicero 5</Data></Cell>
+<Cell><Data ss:Type="String">1,049</Data></Cell>
+<Cell><Data ss:Type="String">19</Data></Cell>
+<Cell><Data ss:Type="String">11</Data></Cell>
+<Cell><Data ss:Type="String">11</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cicero 6</Data></Cell>
+<Cell><Data ss:Type="String">898</Data></Cell>
+<Cell><Data ss:Type="String">625</Data></Cell>
+<Cell><Data ss:Type="String">472</Data></Cell>
+<Cell><Data ss:Type="String">472</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cicero 13</Data></Cell>
+<Cell><Data ss:Type="String">766</Data></Cell>
+<Cell><Data ss:Type="String">382</Data></Cell>
+<Cell><Data ss:Type="String">296</Data></Cell>
+<Cell><Data ss:Type="String">296</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cicero 20</Data></Cell>
+<Cell><Data ss:Type="String">697</Data></Cell>
+<Cell><Data ss:Type="String">478</Data></Cell>
+<Cell><Data ss:Type="String">400</Data></Cell>
+<Cell><Data ss:Type="String">400</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 1</Data></Cell>
+<Cell><Data ss:Type="String">98</Data></Cell>
+<Cell><Data ss:Type="String">81</Data></Cell>
+<Cell><Data ss:Type="String">56</Data></Cell>
+<Cell><Data ss:Type="String">56</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 3</Data></Cell>
+<Cell><Data ss:Type="String">910</Data></Cell>
+<Cell><Data ss:Type="String">607</Data></Cell>
+<Cell><Data ss:Type="String">458</Data></Cell>
+<Cell><Data ss:Type="String">458</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 19</Data></Cell>
+<Cell><Data ss:Type="String">1,053</Data></Cell>
+<Cell><Data ss:Type="String">718</Data></Cell>
+<Cell><Data ss:Type="String">565</Data></Cell>
+<Cell><Data ss:Type="String">565</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 22</Data></Cell>
+<Cell><Data ss:Type="String">715</Data></Cell>
+<Cell><Data ss:Type="String">454</Data></Cell>
+<Cell><Data ss:Type="String">354</Data></Cell>
+<Cell><Data ss:Type="String">354</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 30</Data></Cell>
+<Cell><Data ss:Type="String">161</Data></Cell>
+<Cell><Data ss:Type="String">128</Data></Cell>
+<Cell><Data ss:Type="String">89</Data></Cell>
+<Cell><Data ss:Type="String">89</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 32</Data></Cell>
+<Cell><Data ss:Type="String">390</Data></Cell>
+<Cell><Data ss:Type="String">290</Data></Cell>
+<Cell><Data ss:Type="String">192</Data></Cell>
+<Cell><Data ss:Type="String">192</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 37</Data></Cell>
+<Cell><Data ss:Type="String">695</Data></Cell>
+<Cell><Data ss:Type="String">487</Data></Cell>
+<Cell><Data ss:Type="String">378</Data></Cell>
+<Cell><Data ss:Type="String">378</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 56</Data></Cell>
+<Cell><Data ss:Type="String">1,558</Data></Cell>
+<Cell><Data ss:Type="String">948</Data></Cell>
+<Cell><Data ss:Type="String">754</Data></Cell>
+<Cell><Data ss:Type="String">754</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 57</Data></Cell>
+<Cell><Data ss:Type="String">1,193</Data></Cell>
+<Cell><Data ss:Type="String">727</Data></Cell>
+<Cell><Data ss:Type="String">595</Data></Cell>
+<Cell><Data ss:Type="String">595</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 59</Data></Cell>
+<Cell><Data ss:Type="String">899</Data></Cell>
+<Cell><Data ss:Type="String">594</Data></Cell>
+<Cell><Data ss:Type="String">448</Data></Cell>
+<Cell><Data ss:Type="String">448</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 60</Data></Cell>
+<Cell><Data ss:Type="String">1,564</Data></Cell>
+<Cell><Data ss:Type="String">1,020</Data></Cell>
+<Cell><Data ss:Type="String">848</Data></Cell>
+<Cell><Data ss:Type="String">848</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 64</Data></Cell>
+<Cell><Data ss:Type="String">934</Data></Cell>
+<Cell><Data ss:Type="String">638</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 66</Data></Cell>
+<Cell><Data ss:Type="String">659</Data></Cell>
+<Cell><Data ss:Type="String">441</Data></Cell>
+<Cell><Data ss:Type="String">330</Data></Cell>
+<Cell><Data ss:Type="String">330</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Riverside 2</Data></Cell>
+<Cell><Data ss:Type="String">171</Data></Cell>
+<Cell><Data ss:Type="String">93</Data></Cell>
+<Cell><Data ss:Type="String">48</Data></Cell>
+<Cell><Data ss:Type="String">48</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Riverside 3</Data></Cell>
+<Cell><Data ss:Type="String">592</Data></Cell>
+<Cell><Data ss:Type="String">462</Data></Cell>
+<Cell><Data ss:Type="String">309</Data></Cell>
+<Cell><Data ss:Type="String">309</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Riverside 4</Data></Cell>
+<Cell><Data ss:Type="String">1,218</Data></Cell>
+<Cell><Data ss:Type="String">974</Data></Cell>
+<Cell><Data ss:Type="String">646</Data></Cell>
+<Cell><Data ss:Type="String">646</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 1</Data></Cell>
+<Cell><Data ss:Type="String">455</Data></Cell>
+<Cell><Data ss:Type="String">340</Data></Cell>
+<Cell><Data ss:Type="String">234</Data></Cell>
+<Cell><Data ss:Type="String">234</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 2</Data></Cell>
+<Cell><Data ss:Type="String">716</Data></Cell>
+<Cell><Data ss:Type="String">515</Data></Cell>
+<Cell><Data ss:Type="String">415</Data></Cell>
+<Cell><Data ss:Type="String">415</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 16</Data></Cell>
+<Cell><Data ss:Type="String">1,127</Data></Cell>
+<Cell><Data ss:Type="String">760</Data></Cell>
+<Cell><Data ss:Type="String">573</Data></Cell>
+<Cell><Data ss:Type="String">573</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 17</Data></Cell>
+<Cell><Data ss:Type="String">729</Data></Cell>
+<Cell><Data ss:Type="String">175</Data></Cell>
+<Cell><Data ss:Type="String">132</Data></Cell>
+<Cell><Data ss:Type="String">132</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Stickney 19</Data></Cell>
+<Cell><Data ss:Type="String">875</Data></Cell>
+<Cell><Data ss:Type="String">618</Data></Cell>
+<Cell><Data ss:Type="String">450</Data></Cell>
+<Cell><Data ss:Type="String">450</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">20,935</Data></Cell>
+<Cell><Data ss:Type="String">12,594</Data></Cell>
+<Cell><Data ss:Type="String">9,543</Data></Cell>
+<Cell><Data ss:Type="String">9,543</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

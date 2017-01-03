@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 19th District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 3,688</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Robert Martwick</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">3,688</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Robert Martwick</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden</Data></Cell>
+<Cell><Data ss:Type="String">2,267</Data></Cell>
+<Cell><Data ss:Type="String">1,507</Data></Cell>
+<Cell><Data ss:Type="String">1,010</Data></Cell>
+<Cell><Data ss:Type="String">1,010</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park</Data></Cell>
+<Cell><Data ss:Type="String">6,024</Data></Cell>
+<Cell><Data ss:Type="String">4,021</Data></Cell>
+<Cell><Data ss:Type="String">2,678</Data></Cell>
+<Cell><Data ss:Type="String">2,678</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">8,291</Data></Cell>
+<Cell><Data ss:Type="String">5,528</Data></Cell>
+<Cell><Data ss:Type="String">3,688</Data></Cell>
+<Cell><Data ss:Type="String">3,688</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Robert Martwick</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 37</Data></Cell>
+<Cell><Data ss:Type="String">805</Data></Cell>
+<Cell><Data ss:Type="String">516</Data></Cell>
+<Cell><Data ss:Type="String">345</Data></Cell>
+<Cell><Data ss:Type="String">345</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 49</Data></Cell>
+<Cell><Data ss:Type="String">1,462</Data></Cell>
+<Cell><Data ss:Type="String">991</Data></Cell>
+<Cell><Data ss:Type="String">665</Data></Cell>
+<Cell><Data ss:Type="String">665</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 1</Data></Cell>
+<Cell><Data ss:Type="String">1,154</Data></Cell>
+<Cell><Data ss:Type="String">748</Data></Cell>
+<Cell><Data ss:Type="String">524</Data></Cell>
+<Cell><Data ss:Type="String">524</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 2</Data></Cell>
+<Cell><Data ss:Type="String">1,058</Data></Cell>
+<Cell><Data ss:Type="String">726</Data></Cell>
+<Cell><Data ss:Type="String">528</Data></Cell>
+<Cell><Data ss:Type="String">528</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 4</Data></Cell>
+<Cell><Data ss:Type="String">1,275</Data></Cell>
+<Cell><Data ss:Type="String">855</Data></Cell>
+<Cell><Data ss:Type="String">546</Data></Cell>
+<Cell><Data ss:Type="String">546</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 12</Data></Cell>
+<Cell><Data ss:Type="String">865</Data></Cell>
+<Cell><Data ss:Type="String">591</Data></Cell>
+<Cell><Data ss:Type="String">380</Data></Cell>
+<Cell><Data ss:Type="String">380</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 15</Data></Cell>
+<Cell><Data ss:Type="String">873</Data></Cell>
+<Cell><Data ss:Type="String">567</Data></Cell>
+<Cell><Data ss:Type="String">361</Data></Cell>
+<Cell><Data ss:Type="String">361</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Norwood Park 16</Data></Cell>
+<Cell><Data ss:Type="String">799</Data></Cell>
+<Cell><Data ss:Type="String">534</Data></Cell>
+<Cell><Data ss:Type="String">339</Data></Cell>
+<Cell><Data ss:Type="String">339</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">8,291</Data></Cell>
+<Cell><Data ss:Type="String">5,528</Data></Cell>
+<Cell><Data ss:Type="String">3,688</Data></Cell>
+<Cell><Data ss:Type="String">3,688</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

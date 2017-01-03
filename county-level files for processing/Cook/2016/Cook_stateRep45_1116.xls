@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 45th District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 3,432</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Christine Jennifer Winger</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">1,770</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Cynthia Borbas</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">1,662</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Christine Jennifer Winger</Data></Cell>
+<Cell><Data ss:Type="String">Cynthia Borbas</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,770</Data></Cell>
+<Cell><Data ss:Type="String">1,662</Data></Cell>
+<Cell><Data ss:Type="String">3,432</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,770</Data></Cell>
+<Cell><Data ss:Type="String">1,662</Data></Cell>
+<Cell><Data ss:Type="String">3,432</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Christine Jennifer Winger</Data></Cell>
+<Cell><Data ss:Type="String">Cynthia Borbas</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 9</Data></Cell>
+<Cell><Data ss:Type="String">1,049</Data></Cell>
+<Cell><Data ss:Type="String">722</Data></Cell>
+<Cell><Data ss:Type="String">358</Data></Cell>
+<Cell><Data ss:Type="String">324</Data></Cell>
+<Cell><Data ss:Type="String">682</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 23</Data></Cell>
+<Cell><Data ss:Type="String">1,074</Data></Cell>
+<Cell><Data ss:Type="String">742</Data></Cell>
+<Cell><Data ss:Type="String">334</Data></Cell>
+<Cell><Data ss:Type="String">372</Data></Cell>
+<Cell><Data ss:Type="String">706</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 31</Data></Cell>
+<Cell><Data ss:Type="String">799</Data></Cell>
+<Cell><Data ss:Type="String">547</Data></Cell>
+<Cell><Data ss:Type="String">323</Data></Cell>
+<Cell><Data ss:Type="String">205</Data></Cell>
+<Cell><Data ss:Type="String">528</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 42</Data></Cell>
+<Cell><Data ss:Type="String">1,051</Data></Cell>
+<Cell><Data ss:Type="String">744</Data></Cell>
+<Cell><Data ss:Type="String">345</Data></Cell>
+<Cell><Data ss:Type="String">350</Data></Cell>
+<Cell><Data ss:Type="String">695</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 44</Data></Cell>
+<Cell><Data ss:Type="String">1,294</Data></Cell>
+<Cell><Data ss:Type="String">875</Data></Cell>
+<Cell><Data ss:Type="String">410</Data></Cell>
+<Cell><Data ss:Type="String">411</Data></Cell>
+<Cell><Data ss:Type="String">821</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">5,267</Data></Cell>
+<Cell><Data ss:Type="String">3,630</Data></Cell>
+<Cell><Data ss:Type="String">1,770</Data></Cell>
+<Cell><Data ss:Type="String">1,662</Data></Cell>
+<Cell><Data ss:Type="String">3,432</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

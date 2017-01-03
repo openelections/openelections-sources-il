@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">U.S. Representative, 11th District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 2,357</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Tonia Khouri</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">1,471</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bill Foster</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">886</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Tonia Khouri</Data></Cell>
+<Cell><Data ss:Type="String">Bill Foster</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons</Data></Cell>
+<Cell><Data ss:Type="String">3,222</Data></Cell>
+<Cell><Data ss:Type="String">2,466</Data></Cell>
+<Cell><Data ss:Type="String">1,471</Data></Cell>
+<Cell><Data ss:Type="String">886</Data></Cell>
+<Cell><Data ss:Type="String">2,357</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">3,222</Data></Cell>
+<Cell><Data ss:Type="String">2,466</Data></Cell>
+<Cell><Data ss:Type="String">1,471</Data></Cell>
+<Cell><Data ss:Type="String">886</Data></Cell>
+<Cell><Data ss:Type="String">2,357</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Tonia Khouri</Data></Cell>
+<Cell><Data ss:Type="String">Bill Foster</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 17</Data></Cell>
+<Cell><Data ss:Type="String">574</Data></Cell>
+<Cell><Data ss:Type="String">446</Data></Cell>
+<Cell><Data ss:Type="String">240</Data></Cell>
+<Cell><Data ss:Type="String">184</Data></Cell>
+<Cell><Data ss:Type="String">424</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 36</Data></Cell>
+<Cell><Data ss:Type="String">944</Data></Cell>
+<Cell><Data ss:Type="String">691</Data></Cell>
+<Cell><Data ss:Type="String">418</Data></Cell>
+<Cell><Data ss:Type="String">240</Data></Cell>
+<Cell><Data ss:Type="String">658</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 62</Data></Cell>
+<Cell><Data ss:Type="String">426</Data></Cell>
+<Cell><Data ss:Type="String">329</Data></Cell>
+<Cell><Data ss:Type="String">213</Data></Cell>
+<Cell><Data ss:Type="String">105</Data></Cell>
+<Cell><Data ss:Type="String">318</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 63</Data></Cell>
+<Cell><Data ss:Type="String">1,278</Data></Cell>
+<Cell><Data ss:Type="String">1,000</Data></Cell>
+<Cell><Data ss:Type="String">600</Data></Cell>
+<Cell><Data ss:Type="String">357</Data></Cell>
+<Cell><Data ss:Type="String">957</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">3,222</Data></Cell>
+<Cell><Data ss:Type="String">2,466</Data></Cell>
+<Cell><Data ss:Type="String">1,471</Data></Cell>
+<Cell><Data ss:Type="String">886</Data></Cell>
+<Cell><Data ss:Type="String">2,357</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>
