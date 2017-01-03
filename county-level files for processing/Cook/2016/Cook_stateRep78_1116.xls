@@ -1,0 +1,431 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 78th District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 29,465</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Camille Lilly</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">29,465</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Camille Lilly</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden</Data></Cell>
+<Cell><Data ss:Type="String">21,669</Data></Cell>
+<Cell><Data ss:Type="String">14,359</Data></Cell>
+<Cell><Data ss:Type="String">9,548</Data></Cell>
+<Cell><Data ss:Type="String">9,548</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park</Data></Cell>
+<Cell><Data ss:Type="String">29,711</Data></Cell>
+<Cell><Data ss:Type="String">24,264</Data></Cell>
+<Cell><Data ss:Type="String">19,917</Data></Cell>
+<Cell><Data ss:Type="String">19,917</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">51,380</Data></Cell>
+<Cell><Data ss:Type="String">38,623</Data></Cell>
+<Cell><Data ss:Type="String">29,465</Data></Cell>
+<Cell><Data ss:Type="String">29,465</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Camille Lilly</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 3</Data></Cell>
+<Cell><Data ss:Type="String">1,334</Data></Cell>
+<Cell><Data ss:Type="String">842</Data></Cell>
+<Cell><Data ss:Type="String">547</Data></Cell>
+<Cell><Data ss:Type="String">547</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 5</Data></Cell>
+<Cell><Data ss:Type="String">969</Data></Cell>
+<Cell><Data ss:Type="String">648</Data></Cell>
+<Cell><Data ss:Type="String">452</Data></Cell>
+<Cell><Data ss:Type="String">452</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 6</Data></Cell>
+<Cell><Data ss:Type="String">1,307</Data></Cell>
+<Cell><Data ss:Type="String">846</Data></Cell>
+<Cell><Data ss:Type="String">576</Data></Cell>
+<Cell><Data ss:Type="String">576</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 7</Data></Cell>
+<Cell><Data ss:Type="String">573</Data></Cell>
+<Cell><Data ss:Type="String">364</Data></Cell>
+<Cell><Data ss:Type="String">248</Data></Cell>
+<Cell><Data ss:Type="String">248</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 8</Data></Cell>
+<Cell><Data ss:Type="String">1,155</Data></Cell>
+<Cell><Data ss:Type="String">766</Data></Cell>
+<Cell><Data ss:Type="String">534</Data></Cell>
+<Cell><Data ss:Type="String">534</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 9</Data></Cell>
+<Cell><Data ss:Type="String">1,145</Data></Cell>
+<Cell><Data ss:Type="String">899</Data></Cell>
+<Cell><Data ss:Type="String">527</Data></Cell>
+<Cell><Data ss:Type="String">527</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 10</Data></Cell>
+<Cell><Data ss:Type="String">1,246</Data></Cell>
+<Cell><Data ss:Type="String">850</Data></Cell>
+<Cell><Data ss:Type="String">583</Data></Cell>
+<Cell><Data ss:Type="String">583</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 11</Data></Cell>
+<Cell><Data ss:Type="String">1,079</Data></Cell>
+<Cell><Data ss:Type="String">721</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 13</Data></Cell>
+<Cell><Data ss:Type="String">1,155</Data></Cell>
+<Cell><Data ss:Type="String">721</Data></Cell>
+<Cell><Data ss:Type="String">501</Data></Cell>
+<Cell><Data ss:Type="String">501</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 14</Data></Cell>
+<Cell><Data ss:Type="String">789</Data></Cell>
+<Cell><Data ss:Type="String">544</Data></Cell>
+<Cell><Data ss:Type="String">347</Data></Cell>
+<Cell><Data ss:Type="String">347</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 16</Data></Cell>
+<Cell><Data ss:Type="String">1,152</Data></Cell>
+<Cell><Data ss:Type="String">768</Data></Cell>
+<Cell><Data ss:Type="String">525</Data></Cell>
+<Cell><Data ss:Type="String">525</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 19</Data></Cell>
+<Cell><Data ss:Type="String">1,068</Data></Cell>
+<Cell><Data ss:Type="String">705</Data></Cell>
+<Cell><Data ss:Type="String">475</Data></Cell>
+<Cell><Data ss:Type="String">475</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 20</Data></Cell>
+<Cell><Data ss:Type="String">559</Data></Cell>
+<Cell><Data ss:Type="String">373</Data></Cell>
+<Cell><Data ss:Type="String">251</Data></Cell>
+<Cell><Data ss:Type="String">251</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 22</Data></Cell>
+<Cell><Data ss:Type="String">652</Data></Cell>
+<Cell><Data ss:Type="String">526</Data></Cell>
+<Cell><Data ss:Type="String">316</Data></Cell>
+<Cell><Data ss:Type="String">316</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 26</Data></Cell>
+<Cell><Data ss:Type="String">1,383</Data></Cell>
+<Cell><Data ss:Type="String">1,035</Data></Cell>
+<Cell><Data ss:Type="String">680</Data></Cell>
+<Cell><Data ss:Type="String">680</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 30</Data></Cell>
+<Cell><Data ss:Type="String">1,251</Data></Cell>
+<Cell><Data ss:Type="String">833</Data></Cell>
+<Cell><Data ss:Type="String">533</Data></Cell>
+<Cell><Data ss:Type="String">533</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 34</Data></Cell>
+<Cell><Data ss:Type="String">892</Data></Cell>
+<Cell><Data ss:Type="String">309</Data></Cell>
+<Cell><Data ss:Type="String">202</Data></Cell>
+<Cell><Data ss:Type="String">202</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 36</Data></Cell>
+<Cell><Data ss:Type="String">1,028</Data></Cell>
+<Cell><Data ss:Type="String">683</Data></Cell>
+<Cell><Data ss:Type="String">457</Data></Cell>
+<Cell><Data ss:Type="String">457</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 39</Data></Cell>
+<Cell><Data ss:Type="String">744</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+<Cell><Data ss:Type="String">326</Data></Cell>
+<Cell><Data ss:Type="String">326</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 46</Data></Cell>
+<Cell><Data ss:Type="String">899</Data></Cell>
+<Cell><Data ss:Type="String">609</Data></Cell>
+<Cell><Data ss:Type="String">413</Data></Cell>
+<Cell><Data ss:Type="String">413</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Leyden 50</Data></Cell>
+<Cell><Data ss:Type="String">1,289</Data></Cell>
+<Cell><Data ss:Type="String">844</Data></Cell>
+<Cell><Data ss:Type="String">582</Data></Cell>
+<Cell><Data ss:Type="String">582</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 1</Data></Cell>
+<Cell><Data ss:Type="String">772</Data></Cell>
+<Cell><Data ss:Type="String">626</Data></Cell>
+<Cell><Data ss:Type="String">564</Data></Cell>
+<Cell><Data ss:Type="String">564</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 2</Data></Cell>
+<Cell><Data ss:Type="String">1,223</Data></Cell>
+<Cell><Data ss:Type="String">1,022</Data></Cell>
+<Cell><Data ss:Type="String">799</Data></Cell>
+<Cell><Data ss:Type="String">799</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 3</Data></Cell>
+<Cell><Data ss:Type="String">1,320</Data></Cell>
+<Cell><Data ss:Type="String">1,084</Data></Cell>
+<Cell><Data ss:Type="String">896</Data></Cell>
+<Cell><Data ss:Type="String">896</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 4</Data></Cell>
+<Cell><Data ss:Type="String">1,156</Data></Cell>
+<Cell><Data ss:Type="String">958</Data></Cell>
+<Cell><Data ss:Type="String">748</Data></Cell>
+<Cell><Data ss:Type="String">748</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 5</Data></Cell>
+<Cell><Data ss:Type="String">1,128</Data></Cell>
+<Cell><Data ss:Type="String">944</Data></Cell>
+<Cell><Data ss:Type="String">750</Data></Cell>
+<Cell><Data ss:Type="String">750</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 6</Data></Cell>
+<Cell><Data ss:Type="String">1,300</Data></Cell>
+<Cell><Data ss:Type="String">1,084</Data></Cell>
+<Cell><Data ss:Type="String">874</Data></Cell>
+<Cell><Data ss:Type="String">874</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 7</Data></Cell>
+<Cell><Data ss:Type="String">736</Data></Cell>
+<Cell><Data ss:Type="String">644</Data></Cell>
+<Cell><Data ss:Type="String">516</Data></Cell>
+<Cell><Data ss:Type="String">516</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 8</Data></Cell>
+<Cell><Data ss:Type="String">985</Data></Cell>
+<Cell><Data ss:Type="String">804</Data></Cell>
+<Cell><Data ss:Type="String">707</Data></Cell>
+<Cell><Data ss:Type="String">707</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 9</Data></Cell>
+<Cell><Data ss:Type="String">657</Data></Cell>
+<Cell><Data ss:Type="String">566</Data></Cell>
+<Cell><Data ss:Type="String">480</Data></Cell>
+<Cell><Data ss:Type="String">480</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 10</Data></Cell>
+<Cell><Data ss:Type="String">972</Data></Cell>
+<Cell><Data ss:Type="String">823</Data></Cell>
+<Cell><Data ss:Type="String">677</Data></Cell>
+<Cell><Data ss:Type="String">677</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 11</Data></Cell>
+<Cell><Data ss:Type="String">940</Data></Cell>
+<Cell><Data ss:Type="String">780</Data></Cell>
+<Cell><Data ss:Type="String">660</Data></Cell>
+<Cell><Data ss:Type="String">660</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 12</Data></Cell>
+<Cell><Data ss:Type="String">539</Data></Cell>
+<Cell><Data ss:Type="String">464</Data></Cell>
+<Cell><Data ss:Type="String">356</Data></Cell>
+<Cell><Data ss:Type="String">356</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 13</Data></Cell>
+<Cell><Data ss:Type="String">1,038</Data></Cell>
+<Cell><Data ss:Type="String">852</Data></Cell>
+<Cell><Data ss:Type="String">718</Data></Cell>
+<Cell><Data ss:Type="String">718</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 14</Data></Cell>
+<Cell><Data ss:Type="String">1,090</Data></Cell>
+<Cell><Data ss:Type="String">907</Data></Cell>
+<Cell><Data ss:Type="String">713</Data></Cell>
+<Cell><Data ss:Type="String">713</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 15</Data></Cell>
+<Cell><Data ss:Type="String">1,314</Data></Cell>
+<Cell><Data ss:Type="String">1,071</Data></Cell>
+<Cell><Data ss:Type="String">913</Data></Cell>
+<Cell><Data ss:Type="String">913</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 18</Data></Cell>
+<Cell><Data ss:Type="String">886</Data></Cell>
+<Cell><Data ss:Type="String">749</Data></Cell>
+<Cell><Data ss:Type="String">556</Data></Cell>
+<Cell><Data ss:Type="String">556</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 19</Data></Cell>
+<Cell><Data ss:Type="String">1,075</Data></Cell>
+<Cell><Data ss:Type="String">885</Data></Cell>
+<Cell><Data ss:Type="String">703</Data></Cell>
+<Cell><Data ss:Type="String">703</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 20</Data></Cell>
+<Cell><Data ss:Type="String">1,380</Data></Cell>
+<Cell><Data ss:Type="String">1,158</Data></Cell>
+<Cell><Data ss:Type="String">941</Data></Cell>
+<Cell><Data ss:Type="String">941</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 21</Data></Cell>
+<Cell><Data ss:Type="String">756</Data></Cell>
+<Cell><Data ss:Type="String">630</Data></Cell>
+<Cell><Data ss:Type="String">550</Data></Cell>
+<Cell><Data ss:Type="String">550</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 22</Data></Cell>
+<Cell><Data ss:Type="String">706</Data></Cell>
+<Cell><Data ss:Type="String">573</Data></Cell>
+<Cell><Data ss:Type="String">479</Data></Cell>
+<Cell><Data ss:Type="String">479</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 23</Data></Cell>
+<Cell><Data ss:Type="String">969</Data></Cell>
+<Cell><Data ss:Type="String">811</Data></Cell>
+<Cell><Data ss:Type="String">651</Data></Cell>
+<Cell><Data ss:Type="String">651</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 24</Data></Cell>
+<Cell><Data ss:Type="String">700</Data></Cell>
+<Cell><Data ss:Type="String">623</Data></Cell>
+<Cell><Data ss:Type="String">478</Data></Cell>
+<Cell><Data ss:Type="String">478</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 26</Data></Cell>
+<Cell><Data ss:Type="String">862</Data></Cell>
+<Cell><Data ss:Type="String">716</Data></Cell>
+<Cell><Data ss:Type="String">610</Data></Cell>
+<Cell><Data ss:Type="String">610</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 28</Data></Cell>
+<Cell><Data ss:Type="String">1,290</Data></Cell>
+<Cell><Data ss:Type="String">1,087</Data></Cell>
+<Cell><Data ss:Type="String">918</Data></Cell>
+<Cell><Data ss:Type="String">918</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 30</Data></Cell>
+<Cell><Data ss:Type="String">1,216</Data></Cell>
+<Cell><Data ss:Type="String">990</Data></Cell>
+<Cell><Data ss:Type="String">829</Data></Cell>
+<Cell><Data ss:Type="String">829</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 32</Data></Cell>
+<Cell><Data ss:Type="String">704</Data></Cell>
+<Cell><Data ss:Type="String">580</Data></Cell>
+<Cell><Data ss:Type="String">511</Data></Cell>
+<Cell><Data ss:Type="String">511</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 34</Data></Cell>
+<Cell><Data ss:Type="String">861</Data></Cell>
+<Cell><Data ss:Type="String">721</Data></Cell>
+<Cell><Data ss:Type="String">616</Data></Cell>
+<Cell><Data ss:Type="String">616</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 35</Data></Cell>
+<Cell><Data ss:Type="String">1,255</Data></Cell>
+<Cell><Data ss:Type="String">1,037</Data></Cell>
+<Cell><Data ss:Type="String">831</Data></Cell>
+<Cell><Data ss:Type="String">831</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 36</Data></Cell>
+<Cell><Data ss:Type="String">1,216</Data></Cell>
+<Cell><Data ss:Type="String">525</Data></Cell>
+<Cell><Data ss:Type="String">412</Data></Cell>
+<Cell><Data ss:Type="String">412</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Oak Park 37</Data></Cell>
+<Cell><Data ss:Type="String">665</Data></Cell>
+<Cell><Data ss:Type="String">550</Data></Cell>
+<Cell><Data ss:Type="String">461</Data></Cell>
+<Cell><Data ss:Type="String">461</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">51,380</Data></Cell>
+<Cell><Data ss:Type="String">38,623</Data></Cell>
+<Cell><Data ss:Type="String">29,465</Data></Cell>
+<Cell><Data ss:Type="String">29,465</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

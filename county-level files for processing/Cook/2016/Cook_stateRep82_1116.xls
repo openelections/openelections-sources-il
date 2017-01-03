@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 82nd District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 19,074</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Jim Durkin</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">19,074</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Jim Durkin</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont</Data></Cell>
+<Cell><Data ss:Type="String">15,107</Data></Cell>
+<Cell><Data ss:Type="String">11,129</Data></Cell>
+<Cell><Data ss:Type="String">8,638</Data></Cell>
+<Cell><Data ss:Type="String">8,638</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons</Data></Cell>
+<Cell><Data ss:Type="String">19,031</Data></Cell>
+<Cell><Data ss:Type="String">13,317</Data></Cell>
+<Cell><Data ss:Type="String">10,436</Data></Cell>
+<Cell><Data ss:Type="String">10,436</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">34,138</Data></Cell>
+<Cell><Data ss:Type="String">24,446</Data></Cell>
+<Cell><Data ss:Type="String">19,074</Data></Cell>
+<Cell><Data ss:Type="String">19,074</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Jim Durkin</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 1</Data></Cell>
+<Cell><Data ss:Type="String">1,136</Data></Cell>
+<Cell><Data ss:Type="String">795</Data></Cell>
+<Cell><Data ss:Type="String">605</Data></Cell>
+<Cell><Data ss:Type="String">605</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 2</Data></Cell>
+<Cell><Data ss:Type="String">868</Data></Cell>
+<Cell><Data ss:Type="String">603</Data></Cell>
+<Cell><Data ss:Type="String">459</Data></Cell>
+<Cell><Data ss:Type="String">459</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 3</Data></Cell>
+<Cell><Data ss:Type="String">1,190</Data></Cell>
+<Cell><Data ss:Type="String">856</Data></Cell>
+<Cell><Data ss:Type="String">668</Data></Cell>
+<Cell><Data ss:Type="String">668</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 4</Data></Cell>
+<Cell><Data ss:Type="String">1,017</Data></Cell>
+<Cell><Data ss:Type="String">770</Data></Cell>
+<Cell><Data ss:Type="String">604</Data></Cell>
+<Cell><Data ss:Type="String">604</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 5</Data></Cell>
+<Cell><Data ss:Type="String">1,118</Data></Cell>
+<Cell><Data ss:Type="String">757</Data></Cell>
+<Cell><Data ss:Type="String">539</Data></Cell>
+<Cell><Data ss:Type="String">539</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 6</Data></Cell>
+<Cell><Data ss:Type="String">1,106</Data></Cell>
+<Cell><Data ss:Type="String">811</Data></Cell>
+<Cell><Data ss:Type="String">599</Data></Cell>
+<Cell><Data ss:Type="String">599</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 7</Data></Cell>
+<Cell><Data ss:Type="String">864</Data></Cell>
+<Cell><Data ss:Type="String">611</Data></Cell>
+<Cell><Data ss:Type="String">456</Data></Cell>
+<Cell><Data ss:Type="String">456</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 8</Data></Cell>
+<Cell><Data ss:Type="String">1,193</Data></Cell>
+<Cell><Data ss:Type="String">854</Data></Cell>
+<Cell><Data ss:Type="String">624</Data></Cell>
+<Cell><Data ss:Type="String">624</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 9</Data></Cell>
+<Cell><Data ss:Type="String">740</Data></Cell>
+<Cell><Data ss:Type="String">527</Data></Cell>
+<Cell><Data ss:Type="String">426</Data></Cell>
+<Cell><Data ss:Type="String">426</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 10</Data></Cell>
+<Cell><Data ss:Type="String">805</Data></Cell>
+<Cell><Data ss:Type="String">538</Data></Cell>
+<Cell><Data ss:Type="String">397</Data></Cell>
+<Cell><Data ss:Type="String">397</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 11</Data></Cell>
+<Cell><Data ss:Type="String">1,424</Data></Cell>
+<Cell><Data ss:Type="String">1,025</Data></Cell>
+<Cell><Data ss:Type="String">841</Data></Cell>
+<Cell><Data ss:Type="String">841</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 12</Data></Cell>
+<Cell><Data ss:Type="String">1,262</Data></Cell>
+<Cell><Data ss:Type="String">1,222</Data></Cell>
+<Cell><Data ss:Type="String">984</Data></Cell>
+<Cell><Data ss:Type="String">984</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 13</Data></Cell>
+<Cell><Data ss:Type="String">1,367</Data></Cell>
+<Cell><Data ss:Type="String">1,015</Data></Cell>
+<Cell><Data ss:Type="String">828</Data></Cell>
+<Cell><Data ss:Type="String">828</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lemont 14</Data></Cell>
+<Cell><Data ss:Type="String">1,017</Data></Cell>
+<Cell><Data ss:Type="String">745</Data></Cell>
+<Cell><Data ss:Type="String">608</Data></Cell>
+<Cell><Data ss:Type="String">608</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 12</Data></Cell>
+<Cell><Data ss:Type="String">637</Data></Cell>
+<Cell><Data ss:Type="String">491</Data></Cell>
+<Cell><Data ss:Type="String">391</Data></Cell>
+<Cell><Data ss:Type="String">391</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 14</Data></Cell>
+<Cell><Data ss:Type="String">1,052</Data></Cell>
+<Cell><Data ss:Type="String">854</Data></Cell>
+<Cell><Data ss:Type="String">665</Data></Cell>
+<Cell><Data ss:Type="String">665</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 17</Data></Cell>
+<Cell><Data ss:Type="String">574</Data></Cell>
+<Cell><Data ss:Type="String">446</Data></Cell>
+<Cell><Data ss:Type="String">341</Data></Cell>
+<Cell><Data ss:Type="String">341</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 20</Data></Cell>
+<Cell><Data ss:Type="String">1,341</Data></Cell>
+<Cell><Data ss:Type="String">1,088</Data></Cell>
+<Cell><Data ss:Type="String">855</Data></Cell>
+<Cell><Data ss:Type="String">855</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 25</Data></Cell>
+<Cell><Data ss:Type="String">931</Data></Cell>
+<Cell><Data ss:Type="String">126</Data></Cell>
+<Cell><Data ss:Type="String">92</Data></Cell>
+<Cell><Data ss:Type="String">92</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 28</Data></Cell>
+<Cell><Data ss:Type="String">1,064</Data></Cell>
+<Cell><Data ss:Type="String">568</Data></Cell>
+<Cell><Data ss:Type="String">449</Data></Cell>
+<Cell><Data ss:Type="String">449</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 31</Data></Cell>
+<Cell><Data ss:Type="String">827</Data></Cell>
+<Cell><Data ss:Type="String">685</Data></Cell>
+<Cell><Data ss:Type="String">535</Data></Cell>
+<Cell><Data ss:Type="String">535</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 36</Data></Cell>
+<Cell><Data ss:Type="String">944</Data></Cell>
+<Cell><Data ss:Type="String">691</Data></Cell>
+<Cell><Data ss:Type="String">539</Data></Cell>
+<Cell><Data ss:Type="String">539</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 41</Data></Cell>
+<Cell><Data ss:Type="String">616</Data></Cell>
+<Cell><Data ss:Type="String">482</Data></Cell>
+<Cell><Data ss:Type="String">366</Data></Cell>
+<Cell><Data ss:Type="String">366</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 42</Data></Cell>
+<Cell><Data ss:Type="String">834</Data></Cell>
+<Cell><Data ss:Type="String">659</Data></Cell>
+<Cell><Data ss:Type="String">544</Data></Cell>
+<Cell><Data ss:Type="String">544</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 43</Data></Cell>
+<Cell><Data ss:Type="String">742</Data></Cell>
+<Cell><Data ss:Type="String">590</Data></Cell>
+<Cell><Data ss:Type="String">458</Data></Cell>
+<Cell><Data ss:Type="String">458</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 44</Data></Cell>
+<Cell><Data ss:Type="String">1,354</Data></Cell>
+<Cell><Data ss:Type="String">1,078</Data></Cell>
+<Cell><Data ss:Type="String">881</Data></Cell>
+<Cell><Data ss:Type="String">881</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 47</Data></Cell>
+<Cell><Data ss:Type="String">846</Data></Cell>
+<Cell><Data ss:Type="String">669</Data></Cell>
+<Cell><Data ss:Type="String">517</Data></Cell>
+<Cell><Data ss:Type="String">517</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 50</Data></Cell>
+<Cell><Data ss:Type="String">1,037</Data></Cell>
+<Cell><Data ss:Type="String">773</Data></Cell>
+<Cell><Data ss:Type="String">546</Data></Cell>
+<Cell><Data ss:Type="String">546</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 53</Data></Cell>
+<Cell><Data ss:Type="String">904</Data></Cell>
+<Cell><Data ss:Type="String">57</Data></Cell>
+<Cell><Data ss:Type="String">42</Data></Cell>
+<Cell><Data ss:Type="String">42</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 54</Data></Cell>
+<Cell><Data ss:Type="String">508</Data></Cell>
+<Cell><Data ss:Type="String">216</Data></Cell>
+<Cell><Data ss:Type="String">151</Data></Cell>
+<Cell><Data ss:Type="String">151</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 55</Data></Cell>
+<Cell><Data ss:Type="String">972</Data></Cell>
+<Cell><Data ss:Type="String">761</Data></Cell>
+<Cell><Data ss:Type="String">619</Data></Cell>
+<Cell><Data ss:Type="String">619</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 62</Data></Cell>
+<Cell><Data ss:Type="String">426</Data></Cell>
+<Cell><Data ss:Type="String">329</Data></Cell>
+<Cell><Data ss:Type="String">268</Data></Cell>
+<Cell><Data ss:Type="String">268</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 63</Data></Cell>
+<Cell><Data ss:Type="String">1,278</Data></Cell>
+<Cell><Data ss:Type="String">999</Data></Cell>
+<Cell><Data ss:Type="String">788</Data></Cell>
+<Cell><Data ss:Type="String">788</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 69</Data></Cell>
+<Cell><Data ss:Type="String">1,094</Data></Cell>
+<Cell><Data ss:Type="String">898</Data></Cell>
+<Cell><Data ss:Type="String">712</Data></Cell>
+<Cell><Data ss:Type="String">712</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Lyons 72</Data></Cell>
+<Cell><Data ss:Type="String">1,050</Data></Cell>
+<Cell><Data ss:Type="String">857</Data></Cell>
+<Cell><Data ss:Type="String">677</Data></Cell>
+<Cell><Data ss:Type="String">677</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">34,138</Data></Cell>
+<Cell><Data ss:Type="String">24,446</Data></Cell>
+<Cell><Data ss:Type="String">19,074</Data></Cell>
+<Cell><Data ss:Type="String">19,074</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

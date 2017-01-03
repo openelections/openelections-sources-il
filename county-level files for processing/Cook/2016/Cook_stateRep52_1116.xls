@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 52nd District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 6,431</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">David McSweeney</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">6,431</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">David McSweeney</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington</Data></Cell>
+<Cell><Data ss:Type="String">10,479</Data></Cell>
+<Cell><Data ss:Type="String">7,706</Data></Cell>
+<Cell><Data ss:Type="String">6,007</Data></Cell>
+<Cell><Data ss:Type="String">6,007</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover</Data></Cell>
+<Cell><Data ss:Type="String">3,552</Data></Cell>
+<Cell><Data ss:Type="String">646</Data></Cell>
+<Cell><Data ss:Type="String">424</Data></Cell>
+<Cell><Data ss:Type="String">424</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">14,031</Data></Cell>
+<Cell><Data ss:Type="String">8,352</Data></Cell>
+<Cell><Data ss:Type="String">6,431</Data></Cell>
+<Cell><Data ss:Type="String">6,431</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">David McSweeney</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 2</Data></Cell>
+<Cell><Data ss:Type="String">896</Data></Cell>
+<Cell><Data ss:Type="String">379</Data></Cell>
+<Cell><Data ss:Type="String">273</Data></Cell>
+<Cell><Data ss:Type="String">273</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 3</Data></Cell>
+<Cell><Data ss:Type="String">1,126</Data></Cell>
+<Cell><Data ss:Type="String">857</Data></Cell>
+<Cell><Data ss:Type="String">702</Data></Cell>
+<Cell><Data ss:Type="String">702</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 4</Data></Cell>
+<Cell><Data ss:Type="String">1,423</Data></Cell>
+<Cell><Data ss:Type="String">1,092</Data></Cell>
+<Cell><Data ss:Type="String">868</Data></Cell>
+<Cell><Data ss:Type="String">868</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 5</Data></Cell>
+<Cell><Data ss:Type="String">1,063</Data></Cell>
+<Cell><Data ss:Type="String">801</Data></Cell>
+<Cell><Data ss:Type="String">662</Data></Cell>
+<Cell><Data ss:Type="String">662</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 6</Data></Cell>
+<Cell><Data ss:Type="String">1,152</Data></Cell>
+<Cell><Data ss:Type="String">922</Data></Cell>
+<Cell><Data ss:Type="String">676</Data></Cell>
+<Cell><Data ss:Type="String">676</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 7</Data></Cell>
+<Cell><Data ss:Type="String">334</Data></Cell>
+<Cell><Data ss:Type="String">269</Data></Cell>
+<Cell><Data ss:Type="String">221</Data></Cell>
+<Cell><Data ss:Type="String">221</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 8</Data></Cell>
+<Cell><Data ss:Type="String">1,553</Data></Cell>
+<Cell><Data ss:Type="String">1,159</Data></Cell>
+<Cell><Data ss:Type="String">904</Data></Cell>
+<Cell><Data ss:Type="String">904</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 9</Data></Cell>
+<Cell><Data ss:Type="String">688</Data></Cell>
+<Cell><Data ss:Type="String">555</Data></Cell>
+<Cell><Data ss:Type="String">431</Data></Cell>
+<Cell><Data ss:Type="String">431</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 10</Data></Cell>
+<Cell><Data ss:Type="String">1,426</Data></Cell>
+<Cell><Data ss:Type="String">1,057</Data></Cell>
+<Cell><Data ss:Type="String">773</Data></Cell>
+<Cell><Data ss:Type="String">773</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Barrington 11</Data></Cell>
+<Cell><Data ss:Type="String">818</Data></Cell>
+<Cell><Data ss:Type="String">615</Data></Cell>
+<Cell><Data ss:Type="String">497</Data></Cell>
+<Cell><Data ss:Type="String">497</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 19</Data></Cell>
+<Cell><Data ss:Type="String">821</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Hanover 27</Data></Cell>
+<Cell><Data ss:Type="String">2,731</Data></Cell>
+<Cell><Data ss:Type="String">646</Data></Cell>
+<Cell><Data ss:Type="String">424</Data></Cell>
+<Cell><Data ss:Type="String">424</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">14,031</Data></Cell>
+<Cell><Data ss:Type="String">8,352</Data></Cell>
+<Cell><Data ss:Type="String">6,431</Data></Cell>
+<Cell><Data ss:Type="String">6,431</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>
