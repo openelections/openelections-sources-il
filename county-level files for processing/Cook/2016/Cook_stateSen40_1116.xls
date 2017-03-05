@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Senator, 40th District 4yr</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 22,219</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Toi W. Hutchinson</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">22,219</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Toi W. Hutchinson</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom</Data></Cell>
+<Cell><Data ss:Type="String">24,896</Data></Cell>
+<Cell><Data ss:Type="String">14,385</Data></Cell>
+<Cell><Data ss:Type="String">11,366</Data></Cell>
+<Cell><Data ss:Type="String">11,366</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich</Data></Cell>
+<Cell><Data ss:Type="String">18,076</Data></Cell>
+<Cell><Data ss:Type="String">12,779</Data></Cell>
+<Cell><Data ss:Type="String">10,853</Data></Cell>
+<Cell><Data ss:Type="String">10,853</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">42,972</Data></Cell>
+<Cell><Data ss:Type="String">27,164</Data></Cell>
+<Cell><Data ss:Type="String">22,219</Data></Cell>
+<Cell><Data ss:Type="String">22,219</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Toi W. Hutchinson</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 1</Data></Cell>
+<Cell><Data ss:Type="String">938</Data></Cell>
+<Cell><Data ss:Type="String">359</Data></Cell>
+<Cell><Data ss:Type="String">254</Data></Cell>
+<Cell><Data ss:Type="String">254</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 3</Data></Cell>
+<Cell><Data ss:Type="String">881</Data></Cell>
+<Cell><Data ss:Type="String">550</Data></Cell>
+<Cell><Data ss:Type="String">442</Data></Cell>
+<Cell><Data ss:Type="String">442</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 4</Data></Cell>
+<Cell><Data ss:Type="String">1,117</Data></Cell>
+<Cell><Data ss:Type="String">641</Data></Cell>
+<Cell><Data ss:Type="String">529</Data></Cell>
+<Cell><Data ss:Type="String">529</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 6</Data></Cell>
+<Cell><Data ss:Type="String">580</Data></Cell>
+<Cell><Data ss:Type="String">348</Data></Cell>
+<Cell><Data ss:Type="String">306</Data></Cell>
+<Cell><Data ss:Type="String">306</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 9</Data></Cell>
+<Cell><Data ss:Type="String">1,069</Data></Cell>
+<Cell><Data ss:Type="String">141</Data></Cell>
+<Cell><Data ss:Type="String">97</Data></Cell>
+<Cell><Data ss:Type="String">97</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 12</Data></Cell>
+<Cell><Data ss:Type="String">1,005</Data></Cell>
+<Cell><Data ss:Type="String">701</Data></Cell>
+<Cell><Data ss:Type="String">549</Data></Cell>
+<Cell><Data ss:Type="String">549</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 13</Data></Cell>
+<Cell><Data ss:Type="String">1,380</Data></Cell>
+<Cell><Data ss:Type="String">1,005</Data></Cell>
+<Cell><Data ss:Type="String">884</Data></Cell>
+<Cell><Data ss:Type="String">884</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 15</Data></Cell>
+<Cell><Data ss:Type="String">961</Data></Cell>
+<Cell><Data ss:Type="String">587</Data></Cell>
+<Cell><Data ss:Type="String">417</Data></Cell>
+<Cell><Data ss:Type="String">417</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 17</Data></Cell>
+<Cell><Data ss:Type="String">823</Data></Cell>
+<Cell><Data ss:Type="String">517</Data></Cell>
+<Cell><Data ss:Type="String">444</Data></Cell>
+<Cell><Data ss:Type="String">444</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 19</Data></Cell>
+<Cell><Data ss:Type="String">805</Data></Cell>
+<Cell><Data ss:Type="String">622</Data></Cell>
+<Cell><Data ss:Type="String">522</Data></Cell>
+<Cell><Data ss:Type="String">522</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 24</Data></Cell>
+<Cell><Data ss:Type="String">1,733</Data></Cell>
+<Cell><Data ss:Type="String">222</Data></Cell>
+<Cell><Data ss:Type="String">165</Data></Cell>
+<Cell><Data ss:Type="String">165</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 25</Data></Cell>
+<Cell><Data ss:Type="String">941</Data></Cell>
+<Cell><Data ss:Type="String">547</Data></Cell>
+<Cell><Data ss:Type="String">421</Data></Cell>
+<Cell><Data ss:Type="String">421</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 28</Data></Cell>
+<Cell><Data ss:Type="String">852</Data></Cell>
+<Cell><Data ss:Type="String">595</Data></Cell>
+<Cell><Data ss:Type="String">444</Data></Cell>
+<Cell><Data ss:Type="String">444</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 31</Data></Cell>
+<Cell><Data ss:Type="String">887</Data></Cell>
+<Cell><Data ss:Type="String">633</Data></Cell>
+<Cell><Data ss:Type="String">418</Data></Cell>
+<Cell><Data ss:Type="String">418</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 35</Data></Cell>
+<Cell><Data ss:Type="String">700</Data></Cell>
+<Cell><Data ss:Type="String">356</Data></Cell>
+<Cell><Data ss:Type="String">288</Data></Cell>
+<Cell><Data ss:Type="String">288</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 39</Data></Cell>
+<Cell><Data ss:Type="String">965</Data></Cell>
+<Cell><Data ss:Type="String">540</Data></Cell>
+<Cell><Data ss:Type="String">453</Data></Cell>
+<Cell><Data ss:Type="String">453</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 42</Data></Cell>
+<Cell><Data ss:Type="String">723</Data></Cell>
+<Cell><Data ss:Type="String">551</Data></Cell>
+<Cell><Data ss:Type="String">478</Data></Cell>
+<Cell><Data ss:Type="String">478</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 46</Data></Cell>
+<Cell><Data ss:Type="String">1,074</Data></Cell>
+<Cell><Data ss:Type="String">557</Data></Cell>
+<Cell><Data ss:Type="String">447</Data></Cell>
+<Cell><Data ss:Type="String">447</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 50</Data></Cell>
+<Cell><Data ss:Type="String">768</Data></Cell>
+<Cell><Data ss:Type="String">577</Data></Cell>
+<Cell><Data ss:Type="String">457</Data></Cell>
+<Cell><Data ss:Type="String">457</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 51</Data></Cell>
+<Cell><Data ss:Type="String">560</Data></Cell>
+<Cell><Data ss:Type="String">340</Data></Cell>
+<Cell><Data ss:Type="String">290</Data></Cell>
+<Cell><Data ss:Type="String">290</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 52</Data></Cell>
+<Cell><Data ss:Type="String">974</Data></Cell>
+<Cell><Data ss:Type="String">570</Data></Cell>
+<Cell><Data ss:Type="String">490</Data></Cell>
+<Cell><Data ss:Type="String">490</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 54</Data></Cell>
+<Cell><Data ss:Type="String">1,039</Data></Cell>
+<Cell><Data ss:Type="String">657</Data></Cell>
+<Cell><Data ss:Type="String">497</Data></Cell>
+<Cell><Data ss:Type="String">497</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 56</Data></Cell>
+<Cell><Data ss:Type="String">861</Data></Cell>
+<Cell><Data ss:Type="String">551</Data></Cell>
+<Cell><Data ss:Type="String">377</Data></Cell>
+<Cell><Data ss:Type="String">377</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 57</Data></Cell>
+<Cell><Data ss:Type="String">947</Data></Cell>
+<Cell><Data ss:Type="String">647</Data></Cell>
+<Cell><Data ss:Type="String">482</Data></Cell>
+<Cell><Data ss:Type="String">482</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 58</Data></Cell>
+<Cell><Data ss:Type="String">629</Data></Cell>
+<Cell><Data ss:Type="String">457</Data></Cell>
+<Cell><Data ss:Type="String">382</Data></Cell>
+<Cell><Data ss:Type="String">382</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 59</Data></Cell>
+<Cell><Data ss:Type="String">684</Data></Cell>
+<Cell><Data ss:Type="String">487</Data></Cell>
+<Cell><Data ss:Type="String">405</Data></Cell>
+<Cell><Data ss:Type="String">405</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Bloom 61</Data></Cell>
+<Cell><Data ss:Type="String">1,000</Data></Cell>
+<Cell><Data ss:Type="String">627</Data></Cell>
+<Cell><Data ss:Type="String">428</Data></Cell>
+<Cell><Data ss:Type="String">428</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 2</Data></Cell>
+<Cell><Data ss:Type="String">809</Data></Cell>
+<Cell><Data ss:Type="String">626</Data></Cell>
+<Cell><Data ss:Type="String">581</Data></Cell>
+<Cell><Data ss:Type="String">581</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 3</Data></Cell>
+<Cell><Data ss:Type="String">1,205</Data></Cell>
+<Cell><Data ss:Type="String">907</Data></Cell>
+<Cell><Data ss:Type="String">759</Data></Cell>
+<Cell><Data ss:Type="String">759</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 5</Data></Cell>
+<Cell><Data ss:Type="String">1,041</Data></Cell>
+<Cell><Data ss:Type="String">147</Data></Cell>
+<Cell><Data ss:Type="String">132</Data></Cell>
+<Cell><Data ss:Type="String">132</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 8</Data></Cell>
+<Cell><Data ss:Type="String">1,558</Data></Cell>
+<Cell><Data ss:Type="String">1,164</Data></Cell>
+<Cell><Data ss:Type="String">998</Data></Cell>
+<Cell><Data ss:Type="String">998</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 10</Data></Cell>
+<Cell><Data ss:Type="String">705</Data></Cell>
+<Cell><Data ss:Type="String">543</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+<Cell><Data ss:Type="String">473</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 12</Data></Cell>
+<Cell><Data ss:Type="String">1,088</Data></Cell>
+<Cell><Data ss:Type="String">822</Data></Cell>
+<Cell><Data ss:Type="String">712</Data></Cell>
+<Cell><Data ss:Type="String">712</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 13</Data></Cell>
+<Cell><Data ss:Type="String">618</Data></Cell>
+<Cell><Data ss:Type="String">458</Data></Cell>
+<Cell><Data ss:Type="String">384</Data></Cell>
+<Cell><Data ss:Type="String">384</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 14</Data></Cell>
+<Cell><Data ss:Type="String">871</Data></Cell>
+<Cell><Data ss:Type="String">612</Data></Cell>
+<Cell><Data ss:Type="String">506</Data></Cell>
+<Cell><Data ss:Type="String">506</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 17</Data></Cell>
+<Cell><Data ss:Type="String">1,021</Data></Cell>
+<Cell><Data ss:Type="String">655</Data></Cell>
+<Cell><Data ss:Type="String">520</Data></Cell>
+<Cell><Data ss:Type="String">520</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 22</Data></Cell>
+<Cell><Data ss:Type="String">1,136</Data></Cell>
+<Cell><Data ss:Type="String">729</Data></Cell>
+<Cell><Data ss:Type="String">604</Data></Cell>
+<Cell><Data ss:Type="String">604</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 24</Data></Cell>
+<Cell><Data ss:Type="String">1,064</Data></Cell>
+<Cell><Data ss:Type="String">751</Data></Cell>
+<Cell><Data ss:Type="String">656</Data></Cell>
+<Cell><Data ss:Type="String">656</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 27</Data></Cell>
+<Cell><Data ss:Type="String">1,045</Data></Cell>
+<Cell><Data ss:Type="String">776</Data></Cell>
+<Cell><Data ss:Type="String">686</Data></Cell>
+<Cell><Data ss:Type="String">686</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 29</Data></Cell>
+<Cell><Data ss:Type="String">890</Data></Cell>
+<Cell><Data ss:Type="String">712</Data></Cell>
+<Cell><Data ss:Type="String">529</Data></Cell>
+<Cell><Data ss:Type="String">529</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 31</Data></Cell>
+<Cell><Data ss:Type="String">758</Data></Cell>
+<Cell><Data ss:Type="String">587</Data></Cell>
+<Cell><Data ss:Type="String">452</Data></Cell>
+<Cell><Data ss:Type="String">452</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 32</Data></Cell>
+<Cell><Data ss:Type="String">1,227</Data></Cell>
+<Cell><Data ss:Type="String">903</Data></Cell>
+<Cell><Data ss:Type="String">819</Data></Cell>
+<Cell><Data ss:Type="String">819</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 33</Data></Cell>
+<Cell><Data ss:Type="String">695</Data></Cell>
+<Cell><Data ss:Type="String">560</Data></Cell>
+<Cell><Data ss:Type="String">427</Data></Cell>
+<Cell><Data ss:Type="String">427</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 35</Data></Cell>
+<Cell><Data ss:Type="String">632</Data></Cell>
+<Cell><Data ss:Type="String">508</Data></Cell>
+<Cell><Data ss:Type="String">459</Data></Cell>
+<Cell><Data ss:Type="String">459</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 41</Data></Cell>
+<Cell><Data ss:Type="String">633</Data></Cell>
+<Cell><Data ss:Type="String">477</Data></Cell>
+<Cell><Data ss:Type="String">431</Data></Cell>
+<Cell><Data ss:Type="String">431</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Rich 45</Data></Cell>
+<Cell><Data ss:Type="String">1,080</Data></Cell>
+<Cell><Data ss:Type="String">842</Data></Cell>
+<Cell><Data ss:Type="String">725</Data></Cell>
+<Cell><Data ss:Type="String">725</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">42,972</Data></Cell>
+<Cell><Data ss:Type="String">27,164</Data></Cell>
+<Cell><Data ss:Type="String">22,219</Data></Cell>
+<Cell><Data ss:Type="String">22,219</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

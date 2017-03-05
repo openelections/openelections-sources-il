@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office"></DocumentProperties><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<Selected/>
+ </WorksheetOptions>
+<Worksheet ss:Name="Summary"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">November 08, 2016 Presidential General</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">State Representative, 59th District</Data></Cell>
+<Cell><Data ss:Type="String">Vote For: 1</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes: 4,677</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Candidate</Data></Cell>
+<Cell><Data ss:Type="String">Party</Data></Cell>
+<Cell><Data ss:Type="String">Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Dawn Abernathy</Data></Cell>
+<Cell><Data ss:Type="String">REP</Data></Cell>
+<Cell><Data ss:Type="String">1,624</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Carol Sente</Data></Cell>
+<Cell><Data ss:Type="String">DEM</Data></Cell>
+<Cell><Data ss:Type="String">3,053</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Township"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Township</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Dawn Abernathy</Data></Cell>
+<Cell><Data ss:Type="String">Carol Sente</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling</Data></Cell>
+<Cell><Data ss:Type="String">7,664</Data></Cell>
+<Cell><Data ss:Type="String">4,983</Data></Cell>
+<Cell><Data ss:Type="String">1,624</Data></Cell>
+<Cell><Data ss:Type="String">3,053</Data></Cell>
+<Cell><Data ss:Type="String">4,677</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">7,664</Data></Cell>
+<Cell><Data ss:Type="String">4,983</Data></Cell>
+<Cell><Data ss:Type="String">1,624</Data></Cell>
+<Cell><Data ss:Type="String">3,053</Data></Cell>
+<Cell><Data ss:Type="String">4,677</Data></Cell>
+</Row>
+</Table></Worksheet><Worksheet ss:Name="Precinct"><Table><Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Precinct</Data></Cell>
+<Cell><Data ss:Type="String">Registered Voters</Data></Cell>
+<Cell><Data ss:Type="String">Ballots Cast</Data></Cell>
+<Cell><Data ss:Type="String">Dawn Abernathy</Data></Cell>
+<Cell><Data ss:Type="String">Carol Sente</Data></Cell>
+<Cell><Data ss:Type="String">Total Votes</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 1</Data></Cell>
+<Cell><Data ss:Type="String">1,034</Data></Cell>
+<Cell><Data ss:Type="String">737</Data></Cell>
+<Cell><Data ss:Type="String">295</Data></Cell>
+<Cell><Data ss:Type="String">390</Data></Cell>
+<Cell><Data ss:Type="String">685</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 9</Data></Cell>
+<Cell><Data ss:Type="String">995</Data></Cell>
+<Cell><Data ss:Type="String">344</Data></Cell>
+<Cell><Data ss:Type="String">119</Data></Cell>
+<Cell><Data ss:Type="String">200</Data></Cell>
+<Cell><Data ss:Type="String">319</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 37</Data></Cell>
+<Cell><Data ss:Type="String">1,296</Data></Cell>
+<Cell><Data ss:Type="String">876</Data></Cell>
+<Cell><Data ss:Type="String">226</Data></Cell>
+<Cell><Data ss:Type="String">597</Data></Cell>
+<Cell><Data ss:Type="String">823</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 49</Data></Cell>
+<Cell><Data ss:Type="String">1,302</Data></Cell>
+<Cell><Data ss:Type="String">874</Data></Cell>
+<Cell><Data ss:Type="String">247</Data></Cell>
+<Cell><Data ss:Type="String">589</Data></Cell>
+<Cell><Data ss:Type="String">836</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 67</Data></Cell>
+<Cell><Data ss:Type="String">485</Data></Cell>
+<Cell><Data ss:Type="String">419</Data></Cell>
+<Cell><Data ss:Type="String">143</Data></Cell>
+<Cell><Data ss:Type="String">257</Data></Cell>
+<Cell><Data ss:Type="String">400</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 76</Data></Cell>
+<Cell><Data ss:Type="String">1,452</Data></Cell>
+<Cell><Data ss:Type="String">965</Data></Cell>
+<Cell><Data ss:Type="String">332</Data></Cell>
+<Cell><Data ss:Type="String">564</Data></Cell>
+<Cell><Data ss:Type="String">896</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Wheeling 88</Data></Cell>
+<Cell><Data ss:Type="String">1,100</Data></Cell>
+<Cell><Data ss:Type="String">768</Data></Cell>
+<Cell><Data ss:Type="String">262</Data></Cell>
+<Cell><Data ss:Type="String">456</Data></Cell>
+<Cell><Data ss:Type="String">718</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="1" >
+<Cell><Data ss:Type="String">Suburban Cook County</Data></Cell>
+<Cell><Data ss:Type="String">7,664</Data></Cell>
+<Cell><Data ss:Type="String">4,983</Data></Cell>
+<Cell><Data ss:Type="String">1,624</Data></Cell>
+<Cell><Data ss:Type="String">3,053</Data></Cell>
+<Cell><Data ss:Type="String">4,677</Data></Cell>
+</Row>
+</Table></Worksheet></Workbook>

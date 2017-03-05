@@ -1,0 +1,161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" />
+
+<title>Board of Election Commissioners for the City of Chicago</title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-59933164-1', 'auto');
+  ga('send', 'pageview');
+ 
+</script>
+</head>
+
+<body>
+
+				
+					<b>Chicago Board of Election Commissioners</b><br /><br />
+					
+					<!-- TOTALS -->
+					
+					
+					<!-- Election -->
+					
+						<span style="color:blue"><b>2016 General Election - 11/8/2016                 </b></span><br /><br />
+						
+					<!-- Election End -->
+					
+					<!-- Race -->
+					
+						<span style="color:red"><b>State Representative, 23rd District                                        </b></span><br /><br />
+						
+					<!--Race End -->
+					
+					<!--Total Election and Race -->
+					
+					<table style="width:100%" cellpadding="0" cellspacing="0">
+					<tr style="text-align:center; height:25px">
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Votes</b></td>
+
+					
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Michael J. Zalewski                                                        </b></td>
+						<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+										
+					
+					</tr>
+					
+					<tr style="text-align:center; height:25px">
+					<td style="border:thin; border-style:solid; border-color:#0078C1">2</td>
+					
+						<td style="border:thin; border-style:solid; border-color:#0078C1">2</td>
+							
+							<td style="border:thin; border-style:solid; border-color:#0078C1">100.00%</td>
+							
+						</tr>
+						</table>					
+						
+					<!--Total Election and Race End-->
+					
+					<!-- Ward -->
+					
+							<br />
+							<table style="width:100%" cellpadding="0" cellspacing="0">
+								<tr style="height:25px">
+									<td><b>Ward 13</b></td> 
+								</tr>
+								<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Precinct</b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Votes</b></td>
+									<!--Candidate Names-->
+									
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Michael J. Zalewski                                                        </b></td>
+									<td style="border:thin; border-style:solid; border-color:#0078C1"><b>%</b></td>
+																
+									<!-- Candidate Names End -->
+									
+								</tr>
+																	
+								<!-- Precinct -->
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">26</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">1</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">1</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">100.00%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<tr style="text-align:center; height:25px">
+									<td style="border:thin; border-style:solid; border-color:#0078C1">45</td>
+									
+										<!-- Total Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">1</td>
+										
+										<!-- Total Votes End -->
+									
+									
+										<!-- Votes -->
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">1</td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1">100.00%</td>
+										
+										<!-- Votes End -->
+
+									</tr>
+									
+									<!-- Precinct End -->
+									
+									<tr style="text-align:center; height:25px">
+										<!-- Ward Total Votes -->
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>Total</b></td>
+										
+										<td style="border:thin; border-style:solid; border-color:#0078C1"><b>2</b></td>
+										
+										<!-- Ward Total Votes End -->
+										
+										<!-- Candidate Total Votes and Turnouts -->
+										
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>2</b></td>
+												
+												<td style="border:thin; border-style:solid; border-color:#0078C1"><b>100.00%</b></td>
+																			
+																				
+										<!-- Candidate Total Votes and Turnouts End -->
+										
+									</tr>									
+									
+							</table>							
+							
+
+					
+					
+					<!-- RACE and WARD -->
+					
+					
+				<br /><br />
+
+</body>
+
+</html>
