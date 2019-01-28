@@ -1,4 +1,5 @@
 "JurisdictionID","JurisContainerID","JurisName","EISCandidateID","CandidateName","EISContestID","ContestName","PrecinctName","Registration","EISPartyID","PartyName","VoteCount"
+"16","0","COOK","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","9400010","1382","11","Democratic","446"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 14 Precinct 06","375","11","Democratic","122"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 23 Precinct 06","738","11","Democratic","107"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 23 Precinct 12","574","11","Democratic","22"
@@ -34,7 +35,6 @@
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 16 Precinct 32","827","11","Democratic","273"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 16 Precinct 35","902","11","Democratic","308"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 16 Precinct 23","872","11","Democratic","290"
-"16","0","COOK","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","9400010","1382","11","Democratic","446"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 23 Precinct 26","689","11","Democratic","136"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 15 Precinct 10","1060","11","Democratic","178"
 "105","16","CITY OF CHICAGO","695","AARON M. ORTIZ","1380","1ST REPRESENTATIVE","Ward 14 Precinct 05","1112","11","Democratic","434"
